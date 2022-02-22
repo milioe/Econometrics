@@ -2,7 +2,7 @@
 Econometrics I repository 
 
 
-## Links de los Google Colab
+## Links de los Google Colab
 * [Regresión lineal](https://colab.research.google.com/drive/1uTpIKdWp7O-CjK6tra9UKnk2UonAQDMV?usp=sharing)
 
 
