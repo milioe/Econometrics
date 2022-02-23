@@ -1,6 +1,7 @@
 # Econometrics
 Econometrics I repository 
 
+> "In theory, there is no difference between theory and practice. But in practice, there is"  -Benjamin Brewster
 
 ## Links de los Google Colab
 * [Regresión lineal](https://colab.research.google.com/drive/1uTpIKdWp7O-CjK6tra9UKnk2UonAQDMV?usp=sharing)
