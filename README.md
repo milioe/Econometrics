@@ -10,6 +10,9 @@
 **Nota:** Recuerden que una vez que abren el link, ya pueden ir modificando el notebook e ir experimentando con lo que gusten. Automáticamente se guardará en su Drive.
 
 
+## Overleaf
+* [Prueba de LaTeX](https://es.overleaf.com/read/smcgvcnpjwcr) (Script de LaTeX **comentado** para basarse en los entregables de la clase.)
+
 
 ## Fuentes adicionales
 * [Viendo la teoría](https://seeing-theory.brown.edu/es.html#firstPage) (Probabilidad, distribuciones, bayes y regresión con explicaciones interactivas)
