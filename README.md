@@ -9,6 +9,8 @@
 
 🔑 **Nota:** Recuerden que una vez que abren el link, ya pueden ir modificando el notebook e ir experimentando con lo que gusten. Automáticamente se guardará en su Drive.
 
+* [Regresión Lineal con StatsModel y Scikit-Learn](https://colab.research.google.com/drive/1cHvBvOYO6Dttfj8C7mfUqpLMycYeUP6g?usp=sharing)
+
 
 ## Overleaf
 * [Prueba de LaTeX](https://es.overleaf.com/read/smcgvcnpjwcr) (Script de LaTeX **comentado** para basarse en los entregables de la clase.)
