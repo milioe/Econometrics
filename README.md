@@ -24,4 +24,5 @@
 * [Stats Gist List: An Irreverent Statistician’s Guide to Jargon](https://towardsdatascience.com/stats-gist-list-an-irreverent-statisticians-guide-to-jargon-be8173df090d) (Entretenido por si quieren relacionar temas de A.I. con lo que se ve en la primera parte de nuestro curso)
 * [Linear Regression](https://raw.githubusercontent.com/wiki-360/resources/main/Machine%20Learning%20Algorithms%20Explained.jpg) (Infografía útil para regresión lineal simple.)
 * [Multiple Linear Regression](https://raw.githubusercontent.com/wiki-360/resources/main/Linear%20Regression%20Machine%20Learning%20Algorithm%20Explained.jpg) (Infografía que resume propiedades de regresión lineal múltiple.)
+* [Ordinary Least Squares Regression](https://setosa.io/ev/ordinary-least-squares-regression/) (Explicación visual de mínimos cuadrados ordinarios. Recominedo checar todas las páginas, no sólo essa sección, hay posts sobre PCA, π, etc.)
 
