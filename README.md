@@ -6,6 +6,7 @@
 ## Links de los Google Colab
 * [Regresión lineal](https://colab.research.google.com/drive/1uTpIKdWp7O-CjK6tra9UKnk2UonAQDMV?usp=sharing)
 * [Regresión Lineal con StatsModel y Scikit-Learn](https://colab.research.google.com/drive/1cHvBvOYO6Dttfj8C7mfUqpLMycYeUP6g?usp=sharing)
+* [Regresión en dos etapas](https://colab.research.google.com/drive/15zVRKKONbEhhqncOcF7ku3sx4VzgVATt?usp=sharing)
 
 🔑 **Nota:** Recuerden que una vez que abren el link, ya pueden ir modificando el notebook e ir experimentando con lo que gusten. Automáticamente se guardará en su Drive.
 
