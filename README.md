@@ -28,4 +28,4 @@
 * [Ordinary Least Squares Regression](https://setosa.io/ev/ordinary-least-squares-regression/) (Explicación visual de mínimos cuadrados ordinarios. Recominedo checar todas las páginas, no sólo essa sección, hay posts sobre PCA, π, etc.)
 * [Ordinary People Don’t Think Like Economists. It’s a Problem.](https://www.nytimes.com/2022/04/06/opinion/economics-public-opinion.html?unlocked_article_code=AAAAAAAAAAAAAAAACEIPuomT1JKd6J17Vw1cRCfTTMQmqxCdw_PIxftm3iWka3DJDm4ciOMNAo6B_EGKaKFkYdw23j-AAcdcOrsuT7l11u5ZPktrDQm0p5_O0LI0HxIIk6PhFGUnw8CKGrki7T7hamT-dbxxzeXk50vDPDLoXbjY030qOAdu8ZF6dQ6h3SBex6jGQuVzycA-ial6fu1yTT0BZSKLvPj6WV4paJjdMEaqukRhUPpZWDrTgdea97kAFQ1XAlvBR398in0uvJIeYJhEefaicGNzPZb2kr4TCWd3LYu2BJZXR4bclrlitbalugWLqKWI0XfxJuItW7wA5Zvt&smid=url-share)
 * [Machine Learning and Causal Inference for Policy Evaluation ](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.726.5229&rep=rep1&type=pdf)
-* ![alt text](https://github.com/milioe/Econometrics/blob/main/ANUNCIO%20curso_letter_withe-1.jpg)
+* [Why you should always visualize your data](https://youtu.be/WLQ4GLqMVpw)
