@@ -3,7 +3,7 @@
 > *"In theory, there is no difference between theory and practice. But in practice, there is"*  
 > -Benjamin Brewster
 
-## Links de los Google Colab
+<> ## Links de los Google Colab
 * [Regresión lineal](https://colab.research.google.com/drive/1uTpIKdWp7O-CjK6tra9UKnk2UonAQDMV?usp=sharing)
 * [Regresión Lineal con StatsModel y Scikit-Learn](https://colab.research.google.com/drive/1cHvBvOYO6Dttfj8C7mfUqpLMycYeUP6g?usp=sharing)
 * [Regresión en dos etapas](https://colab.research.google.com/drive/15zVRKKONbEhhqncOcF7ku3sx4VzgVATt?usp=sharing)
