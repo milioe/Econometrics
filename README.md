@@ -37,5 +37,5 @@ Finalmente, dejamos algunos links a páginas, artículos y videos que creemos pu
 * [Why you should always visualize your data](https://youtu.be/WLQ4GLqMVpw)
 * [p-hacker: Train your p-hacking skills!](http://shinyapps.org/apps/p-hacker/)
 * [Looking at the distribution: histograms and kernel density plots](https://modelinginbiology.github.io/looking-at-the-distribution)
-* [Libro: The art of statistics](https://www.amazon.com.mx/Art-Statistics-How-Learn-Data/dp/1541618513/ref=sr_1_1?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=24KRJIE43K419&keywords=the+art+of+statistics&qid=1659911675&sprefix=the+art+of+statistic%2Caps%2C135&sr=8-1)
-* [Maxims for thinking anallytically](https://www.amazon.com.mx/Maxims-Thinking-Analytically-legendary-Zeckhauser/dp/173534088X/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1659911766&sr=8-1)
+* Libro: [The art of statistics](https://www.amazon.com.mx/Art-Statistics-How-Learn-Data/dp/1541618513/ref=sr_1_1?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=24KRJIE43K419&keywords=the+art+of+statistics&qid=1659911675&sprefix=the+art+of+statistic%2Caps%2C135&sr=8-1)
+* Libro: [Maxims for thinking anallytically](https://www.amazon.com.mx/Maxims-Thinking-Analytically-legendary-Zeckhauser/dp/173534088X/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1659911766&sr=8-1)
