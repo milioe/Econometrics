@@ -15,6 +15,7 @@ En este repositorio de Github encontrarás todo lo necesario para la clase, por 
 * [Viendo la teoría](https://seeing-theory.brown.edu/es.html#firstPage) (Probabilidad, distribuciones, bayes y regresión con explicaciones interactivas)
 * [Ordinary Least Squares Regression](https://setosa.io/ev/ordinary-least-squares-regression/) (Explicación visual de mínimos cuadrados ordinarios. Recominedo checar todas las páginas, no sólo essa sección, hay posts sobre PCA, π, etc.)
 * [Brilliant](https://brilliant.org/) (El código del classroom se propocionará en clase para que puedan acceder a los cursos)
+* [Whimsical](Mapa mental del avance de las clases)
 
 
 
