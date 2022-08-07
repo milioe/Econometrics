@@ -1,4 +1,4 @@
-# Econometrics
+# Econometría I
 
 > *"In theory, there is no difference between theory and practice. But in practice, there is"*  
 > -Benjamin Brewster
