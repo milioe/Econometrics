@@ -3,7 +3,7 @@
 > *"In theory, there is no difference between theory and practice. But in practice, there is"*  
 > -Benjamin Brewster
 
-¡Bienvenido a nuestra clase!
+¡Bienvenido a la clase de Econometría I!
 
 En este repositorio de Github encontrarás todo lo necesario para la clase, por ejemplo:
 * **Datasets**: archivos `.csv` que utilizaremos con python
@@ -13,15 +13,15 @@ En este repositorio de Github encontrarás todo lo necesario para la clase, por 
 
 # Recursos a utilizar en clase:
 * [Viendo la teoría](https://seeing-theory.brown.edu/es.html#firstPage) (Probabilidad, distribuciones, bayes y regresión con explicaciones interactivas)
-
-
-
-Finalmente, dejamos algunos links a recursos tales como páginas de aprendizaje, 
+* [Ordinary Least Squares Regression](https://setosa.io/ev/ordinary-least-squares-regression/) (Explicación visual de mínimos cuadrados ordinarios. Recominedo checar todas las páginas, no sólo essa sección, hay posts sobre PCA, π, etc.)
+* [Brilliant](https://brilliant.org/)
 
 
 
 
-## Fuentes adicionales
+# Fuentes adicionales
+
+Finalmente, dejamos algunos links a páginas, artículos y videos que creemos pudieran ayudar a su formación económica cuantitativa:
 
 * [The Curse of Dimensionality](https://typefully.com/svpino/the-curse-of-dimensionality-P9lhOqD) (Artículo breve que desmuestra que no siempre es mejor añadir variables independientes, además con ello viene un costo enorme)
 * [6 Types of “Feature Importance” Any Data Scientist Should Know](https://towardsdatascience.com/6-types-of-feature-importance-any-data-scientist-should-master-1bfd566f21c9) (Algunas aplicaciones de la F estadística en Machine Learning)
@@ -31,7 +31,7 @@ Finalmente, dejamos algunos links a recursos tales como páginas de aprendizaje,
 * [Stats Gist List: An Irreverent Statistician’s Guide to Jargon](https://towardsdatascience.com/stats-gist-list-an-irreverent-statisticians-guide-to-jargon-be8173df090d) (Entretenido por si quieren relacionar temas de A.I. con lo que se ve en la primera parte de nuestro curso)
 * [Linear Regression](https://raw.githubusercontent.com/wiki-360/resources/main/Machine%20Learning%20Algorithms%20Explained.jpg) (Infografía útil para regresión lineal simple.)
 * [Multiple Linear Regression](https://raw.githubusercontent.com/wiki-360/resources/main/Linear%20Regression%20Machine%20Learning%20Algorithm%20Explained.jpg) (Infografía que resume propiedades de regresión lineal múltiple.)
-* [Ordinary Least Squares Regression](https://setosa.io/ev/ordinary-least-squares-regression/) (Explicación visual de mínimos cuadrados ordinarios. Recominedo checar todas las páginas, no sólo essa sección, hay posts sobre PCA, π, etc.)
+
 * [Ordinary People Don’t Think Like Economists. It’s a Problem.](https://www.nytimes.com/2022/04/06/opinion/economics-public-opinion.html?unlocked_article_code=AAAAAAAAAAAAAAAACEIPuomT1JKd6J17Vw1cRCfTTMQmqxCdw_PIxftm3iWka3DJDm4ciOMNAo6B_EGKaKFkYdw23j-AAcdcOrsuT7l11u5ZPktrDQm0p5_O0LI0HxIIk6PhFGUnw8CKGrki7T7hamT-dbxxzeXk50vDPDLoXbjY030qOAdu8ZF6dQ6h3SBex6jGQuVzycA-ial6fu1yTT0BZSKLvPj6WV4paJjdMEaqukRhUPpZWDrTgdea97kAFQ1XAlvBR398in0uvJIeYJhEefaicGNzPZb2kr4TCWd3LYu2BJZXR4bclrlitbalugWLqKWI0XfxJuItW7wA5Zvt&smid=url-share)
 * [Machine Learning and Causal Inference for Policy Evaluation ](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.726.5229&rep=rep1&type=pdf)
 * [Why you should always visualize your data](https://youtu.be/WLQ4GLqMVpw)
