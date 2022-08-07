@@ -7,8 +7,8 @@
 
 En este repositorio de Github encontrarás todo lo necesario para la clase, por ejemplo:
 * 📁 **Datasets**: archivos `.csv` que utilizaremos con python
-* **Papers**: Todos los papers académicos que utilizaremos en la clase
-* **Datasets STATA**: Todos los datasets de Wooldridge en formato `.dta`. Necesitarás descargarlos de acá cada que ocupemos uno en clase
+* 📁 **Papers**: Todos los papers académicos que utilizaremos en la clase
+* 📁 **Datasets STATA**: Todos los datasets de Wooldridge en formato `.dta`. Necesitarás descargarlos de acá cada que ocupemos uno en clase
 
 
 # Recursos a utilizar en clase:
