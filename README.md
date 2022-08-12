@@ -27,6 +27,7 @@ Finalmente, dejamos algunos links a páginas, artículos y videos que creemos pu
 
 * [Spurious Correlations](https://www.tylervigen.com/spurious-correlations) (Correlaciones espurias)
 * [Heuristics That Almost Always Work](https://astralcodexten.substack.com/p/heuristics-that-almost-always-work?fbclid=IwAR2TfPVUSPfQ6NprLyOz_jBaUKT2El-p7xAv0bZswD_sbGnSS5ewT7Z3YoY&r=c1qut) (El arte de la heurística pudiera ser el paso número cero en cualquier modelación)
+* [The Datasaurus Dozen](https://blog.revolutionanalytics.com/2017/05/the-datasaurus-dozen.html) 
 * [How to Use Occam’s Razor Without Getting Cut](https://fs.blog/occams-razor/)
 * [The Curse of Dimensionality](https://typefully.com/svpino/the-curse-of-dimensionality-P9lhOqD) (Artículo breve que desmuestra que no siempre es mejor añadir variables independientes, además con ello viene un costo enorme)
 * [6 Types of “Feature Importance” Any Data Scientist Should Know](https://towardsdatascience.com/6-types-of-feature-importance-any-data-scientist-should-master-1bfd566f21c9) (Algunas aplicaciones de la F estadística en Machine Learning)
