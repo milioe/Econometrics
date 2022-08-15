@@ -45,4 +45,6 @@ Finalmente, dejamos algunos links a páginas, artículos y videos que creemos pu
 * [Looking at the distribution: histograms and kernel density plots](https://modelinginbiology.github.io/looking-at-the-distribution)
 * Libro: [The art of statistics](https://www.amazon.com.mx/Art-Statistics-How-Learn-Data/dp/1541618513/ref=sr_1_1?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=24KRJIE43K419&keywords=the+art+of+statistics&qid=1659911675&sprefix=the+art+of+statistic%2Caps%2C135&sr=8-1)
 * Libro: [Maxims for thinking anallytically](https://www.amazon.com.mx/Maxims-Thinking-Analytically-legendary-Zeckhauser/dp/173534088X/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1659911766&sr=8-1)
+* Libro: [El cisne negro](https://www.amazon.com.mx/El-Cisne-Negro-Altamente-Improbable/dp/6079202557/ref=sr_1_1?keywords=el+cisne+negro&qid=1660584981&sprefix=el+cisne%2Caps%2C135&sr=8-1)
+* Libro: [Everybody Lies: Big Data, New Data, and What the Internet Can Tell Us About Who We Really Are](https://www.amazon.com.mx/Everybody-Lies-Internet-about-Really/dp/0062390856/ref=sr_1_1?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3A6UCBR56762F&keywords=everybody+lies&qid=1660584990&sprefix=everybody+lie%2Caps%2C137&sr=8-1)
 * [R2D3](http://www.r2d3.us/) (Explicaciones visuales de Machine Learning y estadística en general)
