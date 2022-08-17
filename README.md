@@ -25,6 +25,10 @@ En este repositorio de Github encontrarás todo lo necesario para el curso, por 
 
 Finalmente, dejamos algunos links a páginas, artículos y videos que creemos pudieran ayudar a su formación económica cuantitativa:
 
+* [Spurious Correlations](https://www.tylervigen.com/spurious-correlations) (Correlaciones espurias)
+* [Heuristics That Almost Always Work](https://astralcodexten.substack.com/p/heuristics-that-almost-always-work?fbclid=IwAR2TfPVUSPfQ6NprLyOz_jBaUKT2El-p7xAv0bZswD_sbGnSS5ewT7Z3YoY&r=c1qut) (El arte de la heurística pudiera ser el paso número cero en cualquier modelación)
+* [The Datasaurus Dozen](https://blog.revolutionanalytics.com/2017/05/the-datasaurus-dozen.html) (La importancia de graficar)
+* [How to Use Occam’s Razor Without Getting Cut](https://fs.blog/occams-razor/)
 * [The Curse of Dimensionality](https://typefully.com/svpino/the-curse-of-dimensionality-P9lhOqD) (Artículo breve que desmuestra que no siempre es mejor añadir variables independientes, además con ello viene un costo enorme)
 * [6 Types of “Feature Importance” Any Data Scientist Should Know](https://towardsdatascience.com/6-types-of-feature-importance-any-data-scientist-should-master-1bfd566f21c9) (Algunas aplicaciones de la F estadística en Machine Learning)
 * [XGBoost Algorithm: Long May She Reign!](https://medium.com/towards-data-science/https-medium-com-vishalmorde-xgboost-algorithm-long-she-may-rein-edd9f99be63d) (La regresión lineal es válida, pero ¿eficiente?)
@@ -41,4 +45,6 @@ Finalmente, dejamos algunos links a páginas, artículos y videos que creemos pu
 * [Looking at the distribution: histograms and kernel density plots](https://modelinginbiology.github.io/looking-at-the-distribution)
 * Libro: [The art of statistics](https://www.amazon.com.mx/Art-Statistics-How-Learn-Data/dp/1541618513/ref=sr_1_1?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=24KRJIE43K419&keywords=the+art+of+statistics&qid=1659911675&sprefix=the+art+of+statistic%2Caps%2C135&sr=8-1)
 * Libro: [Maxims for thinking anallytically](https://www.amazon.com.mx/Maxims-Thinking-Analytically-legendary-Zeckhauser/dp/173534088X/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1659911766&sr=8-1)
+* Libro: [El cisne negro](https://www.amazon.com.mx/El-Cisne-Negro-Altamente-Improbable/dp/6079202557/ref=sr_1_1?keywords=el+cisne+negro&qid=1660584981&sprefix=el+cisne%2Caps%2C135&sr=8-1)
+* Libro: [Everybody Lies: Big Data, New Data, and What the Internet Can Tell Us About Who We Really Are](https://www.amazon.com.mx/Everybody-Lies-Internet-about-Really/dp/0062390856/ref=sr_1_1?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3A6UCBR56762F&keywords=everybody+lies&qid=1660584990&sprefix=everybody+lie%2Caps%2C137&sr=8-1)
 * [R2D3](http://www.r2d3.us/) (Explicaciones visuales de Machine Learning y estadística en general)
