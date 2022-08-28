@@ -22,7 +22,7 @@ Regresión Lineal | [Ordinary Least Squares Regression](https://setosa.io/ev/ord
 
 
 # Códigos de la clase
-Tema al que hace referencia | Recurso | Notas
+Tema | Link | Notas
 --- | --- | --- |
 Latex | [Ejemplo de reporte en overleaf](https://es.overleaf.com/read/yfkdyvzsrgsy) | Documento que se trabajó en clase
 Intro a Python | [`Colab_completo`](https://colab.research.google.com/drive/126_rw2zj386U63u1f5Vq5-8mHlZDXkii?usp=sharing), [`Colab_clase`]() | código completo y notebook para trabajar en las clases 
@@ -59,8 +59,10 @@ Link | Notas |
 # Recomendaciones de libros
 Link | Comentarios |
 --- | --- | 
-[El cisne negro](https://www.amazon.com.mx/El-Cisne-Negro-Altamente-Improbable/dp/6079202557/ref=sr_1_1?keywords=el+cisne+negro&qid=1660584981&sprefix=el+cisne%2Caps%2C135&sr=8-1) | | 
-[The art of statistics](https://www.amazon.com.mx/Art-Statistics-How-Learn-Data/dp/1541618513/ref=sr_1_1?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=24KRJIE43K419&keywords=the+art+of+statistics&qid=1659911675&sprefix=the+art+of+statistic%2Caps%2C135&sr=8-1) | |
-[Maxims for thinking anallytically](https://www.amazon.com.mx/Maxims-Thinking-Analytically-legendary-Zeckhauser/dp/173534088X/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1659911766&sr=8-1) | |
-[Everybody Lies: Big Data, New Data, and What the Internet Can Tell Us About Who We Really Are](https://www.amazon.com.mx/Everybody-Lies-Internet-about-Really/dp/0062390856/ref=sr_1_1?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3A6UCBR56762F&keywords=everybody+lies&qid=1660584990&sprefix=everybody+lie%2Caps%2C137&sr=8-1) | | 
+[El cisne negro](https://www.amazon.com.mx/El-Cisne-Negro-Altamente-Improbable/dp/6079202557/ref=sr_1_1?keywords=el+cisne+negro&qid=1660584981&sprefix=el+cisne%2Caps%2C135&sr=8-1) - Nassim Nicholas Taleb | | 
+[The art of statistics](https://www.amazon.com.mx/Art-Statistics-How-Learn-Data/dp/1541618513/ref=sr_1_1?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=24KRJIE43K419&keywords=the+art+of+statistics&qid=1659911675&sprefix=the+art+of+statistic%2Caps%2C135&sr=8-1) - David Spiegelhalter | |
+[Maxims for thinking anallytically](https://www.amazon.com.mx/Maxims-Thinking-Analytically-legendary-Zeckhauser/dp/173534088X/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1659911766&sr=8-1) - Dan Levy | |
+[Everybody Lies: Big Data, New Data, and What the Internet Can Tell Us About Who We Really Are](https://www.amazon.com.mx/Everybody-Lies-Internet-about-Really/dp/0062390856/ref=sr_1_1?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3A6UCBR56762F&keywords=everybody+lies&qid=1660584990&sprefix=everybody+lie%2Caps%2C137&sr=8-1) - Seth Stephens-Davidowitz| | 
+[Outliers: The story of success](https://www.amazon.com.mx/Fueras-serie-personas-tienen-%C3%A9xito/dp/6073141866/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1661724784&sr=8-2) - Malcolm Gladwell | |
+[Prediction Machines: The Simple Economics of Artificial Intelligence](https://www.amazon.com.mx/gp/product/1633695670/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1) - Ajay Agrawal |  | 
 
