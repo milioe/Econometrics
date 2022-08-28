@@ -41,28 +41,26 @@ Link | Notas |
 [How to Use Occam’s Razor Without Getting Cut](https://fs.blog/occams-razor/) | |
 [The Curse of Dimensionality](https://typefully.com/svpino/the-curse-of-dimensionality-P9lhOqD) | Artículo breve que desmuestra que no siempre es mejor añadir variables independientes, además con ello viene un costo enorme|
 [6 Types of “Feature Importance” Any Data Scientist Should Know](https://towardsdatascience.com/6-types-of-feature-importance-any-data-scientist-should-master-1bfd566f21c9)| Algunas aplicaciones de la F estadística en Machine Learning|
+[XGBoost Algorithm: Long May She Reign!](https://medium.com/towards-data-science/https-medium-com-vishalmorde-xgboost-algorithm-long-she-may-rein-edd9f99be63d) | La regresión lineal es válida, pero ¿eficiente?|
+[In 1980, two feuding professors bet on the fate of humanity. Who won?](https://aeon.co/videos/in-1980-two-feuding-professors-bet-on-the-fate-of-humanity-who-won?utm_medium=Social&utm_source=Twitter#Echobox=1646262346-1) | Economistas vs. Biologos vs. la realidad vs. los modelos fallan vs. ... | 
+[Linear Regression Models and Influential Points](https://towardsdatascience.com/linear-regression-models-and-influential-points-4ee844adac6d)  | Outliers ≠ Influential Points...algo que no se enseña en la facultad pero es lo más común en datasets |
+[Stats Gist List: An Irreverent Statistician’s Guide to Jargon](https://towardsdatascience.com/stats-gist-list-an-irreverent-statisticians-guide-to-jargon-be8173df090d) | Entretenido por si quieren relacionar temas de A.I. con lo que se ve en la primera parte de nuestro curso |
+[Linear Regression](https://raw.githubusercontent.com/wiki-360/resources/main/Machine%20Learning%20Algorithms%20Explained.jpg) | Infografía útil para regresión lineal simple. | 
+[Multiple Linear Regression](https://raw.githubusercontent.com/wiki-360/resources/main/Linear%20Regression%20Machine%20Learning%20Algorithm%20Explained.jpg) |  Infografía que resume propiedades de regresión lineal múltiple.|
+[Ordinary People Don’t Think Like Economists. It’s a Problem.](https://www.nytimes.com/2022/04/06/opinion/economics-public-opinion.html?unlocked_article_code=AAAAAAAAAAAAAAAACEIPuomT1JKd6J17Vw1cRCfTTMQmqxCdw_PIxftm3iWka3DJDm4ciOMNAo6B_EGKaKFkYdw23j-AAcdcOrsuT7l11u5ZPktrDQm0p5_O0LI0HxIIk6PhFGUnw8CKGrki7T7hamT-dbxxzeXk50vDPDLoXbjY030qOAdu8ZF6dQ6h3SBex6jGQuVzycA-ial6fu1yTT0BZSKLvPj6WV4paJjdMEaqukRhUPpZWDrTgdea97kAFQ1XAlvBR398in0uvJIeYJhEefaicGNzPZb2kr4TCWd3LYu2BJZXR4bclrlitbalugWLqKWI0XfxJuItW7wA5Zvt&smid=url-share) | |
+[Machine Learning and Causal Inference for Policy Evaluation ](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.726.5229&rep=rep1&type=pdf) | |
+[Why you should always visualize your data](https://youtu.be/WLQ4GLqMVpw)| | 
+[p-hacker: Train your p-hacking skills!](http://shinyapps.org/apps/p-hacker/) | |
+[Looking at the distribution: histograms and kernel density plots](https://modelinginbiology.github.io/looking-at-the-distribution) | |
+[R2D3](http://www.r2d3.us/) | Explicaciones visuales de Machine Learning y estadística en general | 
 
-
-
-
-* [XGBoost Algorithm: Long May She Reign!](https://medium.com/towards-data-science/https-medium-com-vishalmorde-xgboost-algorithm-long-she-may-rein-edd9f99be63d) (La regresión lineal es válida, pero ¿eficiente?)
-* [In 1980, two feuding professors bet on the fate of humanity. Who won?](https://aeon.co/videos/in-1980-two-feuding-professors-bet-on-the-fate-of-humanity-who-won?utm_medium=Social&utm_source=Twitter#Echobox=1646262346-1) (Economistas vs. Biologos vs. la realidad vs. los modelos fallan vs. ...)
-* [Linear Regression Models and Influential Points](https://towardsdatascience.com/linear-regression-models-and-influential-points-4ee844adac6d) (Outliers ≠ Influential Points...algo que no se enseña en la facultad pero es lo más común en datasets)
-* [Stats Gist List: An Irreverent Statistician’s Guide to Jargon](https://towardsdatascience.com/stats-gist-list-an-irreverent-statisticians-guide-to-jargon-be8173df090d) (Entretenido por si quieren relacionar temas de A.I. con lo que se ve en la primera parte de nuestro curso)
-* [Linear Regression](https://raw.githubusercontent.com/wiki-360/resources/main/Machine%20Learning%20Algorithms%20Explained.jpg) (Infografía útil para regresión lineal simple.)
-* [Multiple Linear Regression](https://raw.githubusercontent.com/wiki-360/resources/main/Linear%20Regression%20Machine%20Learning%20Algorithm%20Explained.jpg) (Infografía que resume propiedades de regresión lineal múltiple.)
-
-* [Ordinary People Don’t Think Like Economists. It’s a Problem.](https://www.nytimes.com/2022/04/06/opinion/economics-public-opinion.html?unlocked_article_code=AAAAAAAAAAAAAAAACEIPuomT1JKd6J17Vw1cRCfTTMQmqxCdw_PIxftm3iWka3DJDm4ciOMNAo6B_EGKaKFkYdw23j-AAcdcOrsuT7l11u5ZPktrDQm0p5_O0LI0HxIIk6PhFGUnw8CKGrki7T7hamT-dbxxzeXk50vDPDLoXbjY030qOAdu8ZF6dQ6h3SBex6jGQuVzycA-ial6fu1yTT0BZSKLvPj6WV4paJjdMEaqukRhUPpZWDrTgdea97kAFQ1XAlvBR398in0uvJIeYJhEefaicGNzPZb2kr4TCWd3LYu2BJZXR4bclrlitbalugWLqKWI0XfxJuItW7wA5Zvt&smid=url-share)
-* [Machine Learning and Causal Inference for Policy Evaluation ](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.726.5229&rep=rep1&type=pdf)
-* [Why you should always visualize your data](https://youtu.be/WLQ4GLqMVpw)
-* [p-hacker: Train your p-hacking skills!](http://shinyapps.org/apps/p-hacker/)
-* [Looking at the distribution: histograms and kernel density plots](https://modelinginbiology.github.io/looking-at-the-distribution)
-* Libro: [The art of statistics](https://www.amazon.com.mx/Art-Statistics-How-Learn-Data/dp/1541618513/ref=sr_1_1?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=24KRJIE43K419&keywords=the+art+of+statistics&qid=1659911675&sprefix=the+art+of+statistic%2Caps%2C135&sr=8-1)
-* Libro: [Maxims for thinking anallytically](https://www.amazon.com.mx/Maxims-Thinking-Analytically-legendary-Zeckhauser/dp/173534088X/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1659911766&sr=8-1)
-* Libro: [El cisne negro](https://www.amazon.com.mx/El-Cisne-Negro-Altamente-Improbable/dp/6079202557/ref=sr_1_1?keywords=el+cisne+negro&qid=1660584981&sprefix=el+cisne%2Caps%2C135&sr=8-1)
-* Libro: [Everybody Lies: Big Data, New Data, and What the Internet Can Tell Us About Who We Really Are](https://www.amazon.com.mx/Everybody-Lies-Internet-about-Really/dp/0062390856/ref=sr_1_1?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3A6UCBR56762F&keywords=everybody+lies&qid=1660584990&sprefix=everybody+lie%2Caps%2C137&sr=8-1)
-* [R2D3](http://www.r2d3.us/) (Explicaciones visuales de Machine Learning y estadística en general)
 
 
 # Recomendaciones de libros
+Link | Comentarios |
+--- | --- | 
+[El cisne negro](https://www.amazon.com.mx/El-Cisne-Negro-Altamente-Improbable/dp/6079202557/ref=sr_1_1?keywords=el+cisne+negro&qid=1660584981&sprefix=el+cisne%2Caps%2C135&sr=8-1) | | 
+[The art of statistics](https://www.amazon.com.mx/Art-Statistics-How-Learn-Data/dp/1541618513/ref=sr_1_1?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=24KRJIE43K419&keywords=the+art+of+statistics&qid=1659911675&sprefix=the+art+of+statistic%2Caps%2C135&sr=8-1) | |
+[Maxims for thinking anallytically](https://www.amazon.com.mx/Maxims-Thinking-Analytically-legendary-Zeckhauser/dp/173534088X/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1659911766&sr=8-1) | |
+[Everybody Lies: Big Data, New Data, and What the Internet Can Tell Us About Who We Really Are](https://www.amazon.com.mx/Everybody-Lies-Internet-about-Really/dp/0062390856/ref=sr_1_1?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3A6UCBR56762F&keywords=everybody+lies&qid=1660584990&sprefix=everybody+lie%2Caps%2C137&sr=8-1) | | 
 
