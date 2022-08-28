@@ -15,15 +15,18 @@ En este repositorio de Github encontrarás todo lo necesario para el curso, por 
 # Recursos a utilizar en clase:
 Tema al que hace referencia | Recurso | Aportación al proceso de aprendizaje
 --- | --- | --- |
+Info del curso | [Whimsical](https://whimsical.com/econometrics-i-U3gpSBnYKG1UqAS6Fbi7nB) | Mapa mental del avance del curso
+Introdudcción a la estadística | [Brilliant](https://brilliant.org/classroom/join/4i6wh4/) | 
 Regresión Lineal| [Viendo la teoría](https://seeing-theory.brown.edu/es.html#firstPage) | Probabilidad, distribuciones, bayes y regresión con explicaciones interactivas
 Regresión Lineal | [Ordinary Least Squares Regression](https://setosa.io/ev/ordinary-least-squares-regression/) |Explicación visual de mínimos cuadrados ordinarios. Recominedo checar todas las páginas, no sólo essa sección, hay posts sobre PCA, π, etc
-* [Brilliant](https://brilliant.org/classroom/join/4i6wh4/) (Click para unirse al curso)
-* [Whimsical](https://whimsical.com/econometrics-i-U3gpSBnYKG1UqAS6Fbi7nB) (Mapa mental del avance de las clases)
+
 
 
 # Códigos
-Tema al que hace referencia | Recurso | Aportación al proceso de aprendizaje
+Tema al que hace referencia | Recurso | Notas
 --- | --- | --- |
+Latex | [Ejemplo de reporte en overleaf](https://es.overleaf.com/read/yfkdyvzsrgsy) | Documento que se trabajó en clase
+Intro a Python | [`Colab_completo`](https://colab.research.google.com/drive/126_rw2zj386U63u1f5Vq5-8mHlZDXkii?usp=sharing) [`Colab_clase`]() | código completo y notebook para trabajar en las clases 
 
 
 
