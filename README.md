@@ -16,17 +16,16 @@ En este repositorio de Github encontrarás todo lo necesario para el curso, por 
 Tema al que hace referencia | Recurso | Aportación al proceso de aprendizaje
 --- | --- | --- |
 Info del curso | [Whimsical](https://whimsical.com/econometrics-i-U3gpSBnYKG1UqAS6Fbi7nB) | Mapa mental del avance del curso
-Introdudcción a la estadística | [Brilliant](https://brilliant.org/classroom/join/4i6wh4/) | 
+Introducción a la estadística | [Brilliant](https://brilliant.org/classroom/join/4i6wh4/) | 
 Regresión Lineal| [Viendo la teoría](https://seeing-theory.brown.edu/es.html#firstPage) | Probabilidad, distribuciones, bayes y regresión con explicaciones interactivas
 Regresión Lineal | [Ordinary Least Squares Regression](https://setosa.io/ev/ordinary-least-squares-regression/) |Explicación visual de mínimos cuadrados ordinarios. Recominedo checar todas las páginas, no sólo essa sección, hay posts sobre PCA, π, etc
 
 
-
-# Códigos
+# Códigos de la clase
 Tema al que hace referencia | Recurso | Notas
 --- | --- | --- |
 Latex | [Ejemplo de reporte en overleaf](https://es.overleaf.com/read/yfkdyvzsrgsy) | Documento que se trabajó en clase
-Intro a Python | [`Colab_completo`](https://colab.research.google.com/drive/126_rw2zj386U63u1f5Vq5-8mHlZDXkii?usp=sharing) [`Colab_clase`]() | código completo y notebook para trabajar en las clases 
+Intro a Python | [`Colab_completo`](https://colab.research.google.com/drive/126_rw2zj386U63u1f5Vq5-8mHlZDXkii?usp=sharing), [`Colab_clase`]() | código completo y notebook para trabajar en las clases 
 
 
 
@@ -34,12 +33,18 @@ Intro a Python | [`Colab_completo`](https://colab.research.google.com/drive/126_
 
 Finalmente, dejamos algunos links a páginas, artículos y videos que creemos pudieran ayudar a su formación económica cuantitativa:
 
-* [Spurious Correlations](https://www.tylervigen.com/spurious-correlations) (Correlaciones espurias)
-* [Heuristics That Almost Always Work](https://astralcodexten.substack.com/p/heuristics-that-almost-always-work?fbclid=IwAR2TfPVUSPfQ6NprLyOz_jBaUKT2El-p7xAv0bZswD_sbGnSS5ewT7Z3YoY&r=c1qut) (El arte de la heurística pudiera ser el paso número cero en cualquier modelación)
-* [The Datasaurus Dozen](https://blog.revolutionanalytics.com/2017/05/the-datasaurus-dozen.html) (La importancia de graficar)
-* [How to Use Occam’s Razor Without Getting Cut](https://fs.blog/occams-razor/)
-* [The Curse of Dimensionality](https://typefully.com/svpino/the-curse-of-dimensionality-P9lhOqD) (Artículo breve que desmuestra que no siempre es mejor añadir variables independientes, además con ello viene un costo enorme)
-* [6 Types of “Feature Importance” Any Data Scientist Should Know](https://towardsdatascience.com/6-types-of-feature-importance-any-data-scientist-should-master-1bfd566f21c9) (Algunas aplicaciones de la F estadística en Machine Learning)
+Link | Notas |
+--- | --- | 
+[Spurious Correlations](https://www.tylervigen.com/spurious-correlations)|Correlaciones espurias|
+[Heuristics That Almost Always Work](https://astralcodexten.substack.com/p/heuristics-that-almost-always-work?fbclid=IwAR2TfPVUSPfQ6NprLyOz_jBaUKT2El-p7xAv0bZswD_sbGnSS5ewT7Z3YoY&r=c1qut) | El arte de la heurística pudiera ser el paso número cero en cualquier modelación
+[The Datasaurus Dozen](https://blog.revolutionanalytics.com/2017/05/the-datasaurus-dozen.html) | La importancia de graficar|
+[How to Use Occam’s Razor Without Getting Cut](https://fs.blog/occams-razor/) | |
+[The Curse of Dimensionality](https://typefully.com/svpino/the-curse-of-dimensionality-P9lhOqD) | Artículo breve que desmuestra que no siempre es mejor añadir variables independientes, además con ello viene un costo enorme|
+[6 Types of “Feature Importance” Any Data Scientist Should Know](https://towardsdatascience.com/6-types-of-feature-importance-any-data-scientist-should-master-1bfd566f21c9)| Algunas aplicaciones de la F estadística en Machine Learning|
+
+
+
+
 * [XGBoost Algorithm: Long May She Reign!](https://medium.com/towards-data-science/https-medium-com-vishalmorde-xgboost-algorithm-long-she-may-rein-edd9f99be63d) (La regresión lineal es válida, pero ¿eficiente?)
 * [In 1980, two feuding professors bet on the fate of humanity. Who won?](https://aeon.co/videos/in-1980-two-feuding-professors-bet-on-the-fate-of-humanity-who-won?utm_medium=Social&utm_source=Twitter#Echobox=1646262346-1) (Economistas vs. Biologos vs. la realidad vs. los modelos fallan vs. ...)
 * [Linear Regression Models and Influential Points](https://towardsdatascience.com/linear-regression-models-and-influential-points-4ee844adac6d) (Outliers ≠ Influential Points...algo que no se enseña en la facultad pero es lo más común en datasets)
@@ -57,3 +62,7 @@ Finalmente, dejamos algunos links a páginas, artículos y videos que creemos pu
 * Libro: [El cisne negro](https://www.amazon.com.mx/El-Cisne-Negro-Altamente-Improbable/dp/6079202557/ref=sr_1_1?keywords=el+cisne+negro&qid=1660584981&sprefix=el+cisne%2Caps%2C135&sr=8-1)
 * Libro: [Everybody Lies: Big Data, New Data, and What the Internet Can Tell Us About Who We Really Are](https://www.amazon.com.mx/Everybody-Lies-Internet-about-Really/dp/0062390856/ref=sr_1_1?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3A6UCBR56762F&keywords=everybody+lies&qid=1660584990&sprefix=everybody+lie%2Caps%2C137&sr=8-1)
 * [R2D3](http://www.r2d3.us/) (Explicaciones visuales de Machine Learning y estadística en general)
+
+
+# Recomendaciones de libros
+
