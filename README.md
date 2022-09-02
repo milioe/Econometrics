@@ -25,7 +25,7 @@ Regresión Lineal | [Ordinary Least Squares Regression](https://setosa.io/ev/ord
 Tema | Link | Notas
 --- | --- | --- |
 Latex | [Ejemplo de reporte en overleaf](https://es.overleaf.com/read/yfkdyvzsrgsy) | Documento que se trabajó en clase
-Intro a Python | [`Colab_completo`](https://colab.research.google.com/drive/126_rw2zj386U63u1f5Vq5-8mHlZDXkii?usp=sharing) | Código completo de Introducción a python |
+Intro a Python | [`Intro a python`](https://colab.research.google.com/drive/126_rw2zj386U63u1f5Vq5-8mHlZDXkii?usp=sharing) | Código completo de Introducción a python |
 Regresión Lineal con Python | [`Colab`]() | |
 
 
