@@ -53,6 +53,7 @@ Link | Notas |
 [p-hacker: Train your p-hacking skills!](http://shinyapps.org/apps/p-hacker/) | |
 [Looking at the distribution: histograms and kernel density plots](https://modelinginbiology.github.io/looking-at-the-distribution) | |
 [R2D3](http://www.r2d3.us/) | Explicaciones visuales de Machine Learning y estadística en general | 
+|[Assumptions of Linear Regression](https://typefully.com/capeandcode/6rLloV5) | 
 
 
 
