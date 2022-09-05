@@ -54,6 +54,7 @@ Link | Notas |
 [Looking at the distribution: histograms and kernel density plots](https://modelinginbiology.github.io/looking-at-the-distribution) | |
 [R2D3](http://www.r2d3.us/) | Explicaciones visuales de Machine Learning y estadística en general | 
 |[Assumptions of Linear Regression](https://typefully.com/capeandcode/6rLloV5) | 
+|[Statistical tests, P values, confidence intervals, and power: a guide to misinterpretations](https://link.springer.com/content/pdf/10.1007/s10654-016-0149-3.pdf)|
 
 
 
