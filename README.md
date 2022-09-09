@@ -19,6 +19,7 @@ Info del curso | [Whimsical](https://whimsical.com/econometrics-i-U3gpSBnYKG1UqA
 Introducción a la estadística | [Brilliant](https://brilliant.org/classroom/join/4i6wh4/) | Da click para unirte al classroom
 Regresión Lineal| [Viendo la teoría](https://seeing-theory.brown.edu/es.html#firstPage) | Probabilidad, distribuciones, bayes y regresión con explicaciones interactivas
 Regresión Lineal | [Ordinary Least Squares Regression](https://setosa.io/ev/ordinary-least-squares-regression/) |Explicación visual de mínimos cuadrados ordinarios. Recominedo checar todas las páginas, no sólo essa sección, hay posts sobre PCA, π, etc
+Multicolinealidad | [Ejercicio de lectura de matriz](https://github.com/milioe/Econometrics/blob/main/Otros/multi.md) 
 
 
 # Códigos de la clase
