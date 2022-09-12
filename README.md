@@ -26,7 +26,7 @@ Multicolinealidad | [Ejercicio de lectura de matriz](https://github.com/milioe/E
 Tema | Link | Notas
 --- | --- | --- |
 Latex | [Ejemplo de reporte en overleaf](https://es.overleaf.com/read/yfkdyvzsrgsy) | Documento que se trabajó en clase
-Intro a Python | [`Intro a python`](https://colab.research.google.com/drive/126_rw2zj386U63u1f5Vq5-8mHlZDXkii?usp=sharing), [Instalación de python](https://youtu.be/P0mE6Y9JWIA) | Código completo de Introducción a python |
+Intro a Python | [`Intro a python`](https://colab.research.google.com/drive/126_rw2zj386U63u1f5Vq5-8mHlZDXkii?usp=sharing), [Turoail de instalación de python](https://youtu.be/P0mE6Y9JWIA) | Código completo de Introducción a python |
 Regresión Lineal con Python | [`Colab`]() | |
 
 
