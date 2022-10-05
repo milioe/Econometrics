@@ -56,6 +56,7 @@ Link | Notas |
 [R2D3](http://www.r2d3.us/) | Explicaciones visuales de Machine Learning y estadística en general | 
 |[Assumptions of Linear Regression](https://typefully.com/capeandcode/6rLloV5) | 
 |[Statistical tests, P values, confidence intervals, and power: a guide to misinterpretations](https://link.springer.com/content/pdf/10.1007/s10654-016-0149-3.pdf)|
+| [Time Series Problems Simply Explained as Fast Food Combo Meals](https://towardsdatascience.com/time-series-problems-simply-explained-as-fast-food-combo-meals-70c6eb9bdef) | 
 
 
 
