@@ -27,7 +27,7 @@ Tema | Link | Notas
 --- | --- | --- |
 Latex | [Ejemplo de reporte en overleaf](https://es.overleaf.com/read/yfkdyvzsrgsy) | Documento que se trabajó en clase
 Intro a Python | [`Intro a python`](https://colab.research.google.com/drive/126_rw2zj386U63u1f5Vq5-8mHlZDXkii?usp=sharing), [Tutorial de instalación de python](https://youtu.be/P0mE6Y9JWIA) | Código completo de Introducción a python |
-Regresión Lineal con Python | [`Colab`]() | |
+Regresión Lineal con Python | [`Regresión Lineal Simple`](https://colab.research.google.com/drive/1FTRCVah2VgV0z2ypdm7UbWPuZjRomoYx?usp=sharing) | |
 
 
 # Fuentes adicionales
