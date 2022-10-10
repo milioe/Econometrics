@@ -20,6 +20,7 @@ Introducción a la estadística | [Brilliant](https://brilliant.org/classroom/jo
 Regresión Lineal| [Viendo la teoría](https://seeing-theory.brown.edu/es.html#firstPage) | Probabilidad, distribuciones, bayes y regresión con explicaciones interactivas
 Regresión Lineal | [Ordinary Least Squares Regression](https://setosa.io/ev/ordinary-least-squares-regression/) |Explicación visual de mínimos cuadrados ordinarios. Recominedo checar todas las páginas, no sólo essa sección, hay posts sobre PCA, π, etc
 Multicolinealidad | [Ejercicio de lectura de matriz](https://github.com/milioe/Econometrics/blob/main/Otros/multi.md) 
+Datasets Kaggle | [`Song Popularity`](https://www.kaggle.com/datasets/yasserh/song-popularity-dataset), [`Walmart`](https://www.kaggle.com/datasets/yasserh/walmart-dataset), [`Marketing`](https://www.kaggle.com/datasets/fayejavad/marketing-linear-multiple-regression), [`Startup`](https://www.kaggle.com/datasets/karthickveerakumar/startup-logistic-regression), [`Life Expectancy`](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who), 
 
 
 # Códigos de la clase
