@@ -11,9 +11,10 @@ Algunos de ustedes nos pidieron libros o referencias para estudiar para el exame
 2. Estos videos podrían ser de utilidad para comenzar:
   * [Interpreting Linear Regression Results](https://youtu.be/rLkysIyO7-U)
   * [Assumptions of Linear Regression](https://youtu.be/sDrAoR17pNM)
-3. Basta con que googlen y memoricen las hipótesis para cada una de las pruebas que hemos visto.
-4. Brilliant -> Statistics I -> Unit 6: Linear Regression & ANOVA
+3. Basta con que **googlen y memoricen** las hipótesis para **cada una de las pruebas** que hemos visto.
+4. Entren a: `Brilliant` -> `Statistics I` -> `Unit 6: Linear Regression & ANOVA`
 5. Revisen [Viendo la teoría](https://seeing-theory.brown.edu/regression-analysis/index.html), en especial la sección de regresión.
+6. Entren a [setosa](https://setosa.io/ev/ordinary-least-squares-regression/) para repasar MCO.
 
 🚨 Aprovechando, les dejamos el libro del cisne negro en PDF: 
 * [`Link PDF`](https://github.com/milioe/Econometrics/blob/main/Otros/El%20cisne%20negro.pdf)
