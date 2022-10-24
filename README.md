@@ -2,12 +2,6 @@
 
 > *"In theory, there is no difference between theory and practice. But in practice, there is"*  
 > -Benjamin Brewster
-* **
-
-# 🚨🚨🚨🚨🚨 Examen 🚨🚨🚨🚨🚨🚨
-
-* [Link al examen](https://tz2qqz0vdh1.typeform.com/to/g6cTkb8h)
-
 
 * **
 ¡Bienvenido a la clase!
