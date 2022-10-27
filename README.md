@@ -60,6 +60,7 @@ Link | Notas |
 |[Statistical tests, P values, confidence intervals, and power: a guide to misinterpretations](https://link.springer.com/content/pdf/10.1007/s10654-016-0149-3.pdf)|
 | [Time Series Problems Simply Explained as Fast Food Combo Meals](https://towardsdatascience.com/time-series-problems-simply-explained-as-fast-food-combo-meals-70c6eb9bdef) | 
 | [Is n = 30 really enough? A popular inductive fallacy among data analysts](https://towardsdatascience.com/is-n-30-really-enough-a-popular-inductive-fallacy-among-data-analysts-95661669dd98) | 
+| [Breaking it Down: Logistic Regression](https://towardsdatascience.com/breaking-it-down-logistic-regression-e5c3f1450bd#6a7a) |
 
 
 
