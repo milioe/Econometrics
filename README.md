@@ -61,6 +61,7 @@ Link | Notas |
 | [Time Series Problems Simply Explained as Fast Food Combo Meals](https://towardsdatascience.com/time-series-problems-simply-explained-as-fast-food-combo-meals-70c6eb9bdef) | 
 | [Is n = 30 really enough? A popular inductive fallacy among data analysts](https://towardsdatascience.com/is-n-30-really-enough-a-popular-inductive-fallacy-among-data-analysts-95661669dd98) | 
 | [Breaking it Down: Logistic Regression](https://towardsdatascience.com/breaking-it-down-logistic-regression-e5c3f1450bd#6a7a) |
+| [`Assumptions of Linear Regression`](https://youtu.be/sDrAoR17pNM), [`Interpreting Linear Regression Results`](https://youtu.be/rLkysIyO7-U), [`Simple Linear Regressions`](https://youtu.be/vnQIW5ts3eM) | Videos útiles para repaso de primer parical
 
 
 
