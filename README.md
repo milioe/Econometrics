@@ -7,7 +7,7 @@
 
 # 🚨🚨🚨 Importante 🚨🚨🚨
 
-Videos para clase de Machine Learning 
+Videos para clase de Machine Learning (5 de Diciembre)
 * [Decision and Classification Trees, Clearly Explained!!!](https://youtu.be/_L39rN6gz7Y)
 * [Clasificación con Árboles de Decisión ¡EN 15 MINUTOS!](https://youtu.be/kqaLlte6P6o)
 * [Visual Guide to Random Forests](https://youtu.be/cIbj0WuK41w)
