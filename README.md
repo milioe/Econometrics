@@ -7,10 +7,11 @@
 
 # 🚨🚨🚨 Importante 🚨🚨🚨
 
-Videos para clase de Machine Learning (5 de Diciembre)
+Videos para clases de Machine Learning (5 y 7 de diciembre)
 * [Decision and Classification Trees, Clearly Explained!!!](https://youtu.be/_L39rN6gz7Y)
 * [Clasificación con Árboles de Decisión ¡EN 15 MINUTOS!](https://youtu.be/kqaLlte6P6o)
 * [Visual Guide to Random Forests](https://youtu.be/cIbj0WuK41w)
+* [8 Mistakes Holding Your Career Back | Machine Learning](https://youtu.be/yrtAoBr3iuQ) (un poco de motivación)
 
 
 
