@@ -16,7 +16,6 @@ Videos para clases de Machine Learning (5 y 7 de diciembre)
 
 
 
-
 * **
 ¡Bienvenido a la clase!
 
@@ -25,6 +24,8 @@ En este repositorio de Github encontrarás todo lo necesario para el curso, por 
 * 📁 **Papers**: Todos los papers académicos que utilizaremos en la clase
 * 📁 **Datasets STATA**: Todos los datasets de Wooldridge en formato `.dta`. Necesitarás descargarlos de acá cada que ocupemos uno en clase
 * 📁 **PowerPoints**: Presentaciones de la clase en formato `.pdf`
+
+* [Link de datos de cointegracion](https://docs.google.com/spreadsheets/d/1gaOUBAVoPPiGVQWQdomO2zoQt7QSgO2-/edit?usp=sharing&ouid=109293680949375961319&rtpof=true&sd=true)
 
 
 # Recursos a utilizar en clase:
