@@ -26,6 +26,7 @@ En este repositorio de Github encontrarás todo lo necesario para el curso, por 
 * 📁 **PowerPoints**: Presentaciones de la clase en formato `.pdf`
 
 * [Link de datos de cointegracion](https://docs.google.com/spreadsheets/d/1gaOUBAVoPPiGVQWQdomO2zoQt7QSgO2-/edit?usp=sharing&ouid=109293680949375961319&rtpof=true&sd=true)
+* [Espurias](http://tylervigen.com/spurious-correlations)
 
 
 # Recursos a utilizar en clase:
