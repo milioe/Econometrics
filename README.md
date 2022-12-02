@@ -17,6 +17,13 @@ Videos para clases de Machine Learning (5 y 7 de diciembre)
 * [R2D3](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 
 
+# Notebooks de clase ML:
+1. [Introducción a Pandas y Matplotlib]()
+2. [Machine Learning I]()
+3. [Series de tiempo I]()
+
+
+
 
 
 * **
