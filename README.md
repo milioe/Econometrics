@@ -18,7 +18,7 @@ Videos para clases de Machine Learning (5 y 7 de diciembre)
 
 
 # Notebooks de clase ML:
-1. [Machine Learning I]()
+1. [Machine Learning I](https://colab.research.google.com/drive/1cRTBNRTUEZGoA3mkSEZNxXW1qIlwVZuf?usp=sharing)
 2. [Series de tiempo I]()
 
 
