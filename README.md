@@ -18,9 +18,8 @@ Videos para clases de Machine Learning (5 y 7 de diciembre)
 
 
 # Notebooks de clase ML:
-1. [Introducción a Pandas y Matplotlib]()
-2. [Machine Learning I]()
-3. [Series de tiempo I]()
+1. [Machine Learning I]()
+2. [Series de tiempo I]()
 
 
 
