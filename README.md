@@ -22,6 +22,8 @@ Videos para clases de Machine Learning (5 y 7 de diciembre)
 2. [Series de tiempo I]()
 
 
+# LIBROS
+Algunos de ustedes me pidieron un libro en español con temas de Machine Learning y Deep Learning. Les dejo este libro ([Aprende Machine Learning con Scikit-Learn, Keras y TensorFlow](https://www.amazon.com.mx/Aprende-Machine-Learning-Scikit-Learn-TensorFlow/dp/8441542643)) el cual yo recomiendo leer en inglés para que se acostumbre a los tecnisismos, pero igual lo importante es comenzar, y este libro está completamente orientado a la parte práctica con Python sin olvidar la teoría. Este libro es de los más usados, y guía para la certificación de TensorFlow.
 
 
 
