@@ -25,7 +25,7 @@ Videos para clases de Machine Learning (5 y 7 de diciembre)
 
 
 # Foto Grupal
-![Foto](https://github.com/milioe/Econometrics/raw/main/images/IMG_8146.HEIC)
+<img src="https://github.com/milioe/Econometrics/raw/main/images/IMG_8146.HEIC" alt="JuveR" width="300px">
 
 
 # LIBROS
