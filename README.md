@@ -7,9 +7,11 @@
 
 # 🚨🚨🚨 Segundo Parcial 🚨🚨🚨
 
-En el siguiente link encontrarán el typeform del segundo parcial. El examen es en horario de clase y la dinámica es la misma que en el parcial anterior. El sistema marca la hora en la que se envía el examen, por lo que se les recomienda terminarlo antes del medio día. Cualquier cosa no duden en mandarnos correo. ¡Mucha suerte! 😉
+En el siguiente link encontrarán el typeform del segundo parcial. El examen es en horario de clase y la dinámica es la misma que en el parcial anterior. El sistema marca la hora en la que se envía el examen, por lo que se les recomienda terminarlo antes del medio día. Recuerden que para moverse entre las preguntas, se ocupan las flechitas azules de la parte de abajo.
 
-* [Link de segundo parcial]()
+Cualquier cosa no duden en mandarnos correo. ¡Mucha suerte! 😉
+
+* [Link de segundo parcial](https://tz2qqz0vdh1.typeform.com/to/rEQ4LG9g)
 
 * **
 
