@@ -7,6 +7,13 @@
 
 # 🚨🚨🚨 Importante 🚨🚨🚨
 
+En el siguiente link encontrarán el typeform del segundo parcial. El examen es en horario de clase y la dinámica es la misma que en el parcial anterior. El sistema marca la hora en la que se envía el examen, por lo que se les recomienda terminarlo antes del medio día. Cualquier cosa no duden en mandarnos correo. ¡Mucha suerte! 😉
+
+* [Link de segundo parcial]()
+
+* **
+
+# ML
 Videos para clases de Machine Learning (5 y 7 de diciembre)
 * [Decision and Classification Trees, Clearly Explained!!!](https://youtu.be/_L39rN6gz7Y)
 * [Clasificación con Árboles de Decisión ¡EN 15 MINUTOS!](https://youtu.be/kqaLlte6P6o)
@@ -17,7 +24,7 @@ Videos para clases de Machine Learning (5 y 7 de diciembre)
 * [R2D3](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 
 
-# Notebooks de clase ML:
+## Notebooks de clase ML:
 1. [Machine Learning I](https://colab.research.google.com/drive/1cRTBNRTUEZGoA3mkSEZNxXW1qIlwVZuf?usp=sharing)
 2. [Series de tiempo I]()
 
