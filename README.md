@@ -5,7 +5,7 @@
 
 * **
 
-# 🚨🚨🚨 Importante 🚨🚨🚨
+# 🚨🚨🚨 Segundo Parcial 🚨🚨🚨
 
 En el siguiente link encontrarán el typeform del segundo parcial. El examen es en horario de clase y la dinámica es la misma que en el parcial anterior. El sistema marca la hora en la que se envía el examen, por lo que se les recomienda terminarlo antes del medio día. Cualquier cosa no duden en mandarnos correo. ¡Mucha suerte! 😉
 
