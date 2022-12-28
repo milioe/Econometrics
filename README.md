@@ -21,7 +21,7 @@ En este repositorio encontrarás **todo el material necesario para el curso**. T
 | Unidad | Slides | Código | Recursos Adicionales |
 |--------|--------|--------|----------------------|
 | Presentación de curso | [Welcome]() | | [`Syllabus`]() · [`Cuestionario general`]() · [`Whimsical del curso`](https://whimsical.com/econometrics-i-U3gpSBnYKG1UqAS6Fbi7nB)|
-| Regresión lineal| [Workshop 1]() | [`Intro a Python`](https://colab.research.google.com/drive/1b57SV3m-gevwQ0xFFhyvgqRUuHDKawZY?usp=sharing) · [`Regresión lineal artesanal`](https://colab.research.google.com/drive/1FTRCVah2VgV0z2ypdm7UbWPuZjRomoYx?usp=sharing) | [`Kaggle`](https://www.kaggle.com/)
+| Regresión lineal| [Workshop 1]() | [`Intro a LaTeX`]() · [`Intro a Python`](https://colab.research.google.com/drive/1b57SV3m-gevwQ0xFFhyvgqRUuHDKawZY?usp=sharing) · [`Regresión lineal artesanal`](https://colab.research.google.com/drive/1FTRCVah2VgV0z2ypdm7UbWPuZjRomoYx?usp=sharing) |  [`Brilliant`](https://brilliant.org/classroom/join/4i6wh4/) · [`Viendo la teoría`](https://seeing-theory.brown.edu/es.html#firstPage) · [`Spurious Correlations`](https://www.tylervigen.com/spurious-correlations) · [`Kaggle`](https://www.kaggle.com/)
 | Forma Funcional  | [Workshop 2]() | | |
 | Multicolinealidad | [Workshop 3]() | | |
 | Normalidad | [Workshop 4]() | | |
@@ -30,7 +30,7 @@ En este repositorio encontrarás **todo el material necesario para el curso**. T
 | Logit - Probit | [Workshop 7]() |  | |
 | Datos Panel | [Workshop 8]() |  | |
 | Ecuaciones simultáneas | [Workshop 9]() | | |
-| Series de tiempo | [Workshop 10]() | [`Predicción de clima`]() | |
+| Series de tiempo | [Workshop 10]() | [`Predicción de clima`]() | [`Time Series Problems Simply Explained as Fast Food Combo Meals`](https://towardsdatascience.com/time-series-problems-simply-explained-as-fast-food-combo-meals-70c6eb9bdef)|
 | Cointegración | [Workshop 11]() |  | |
 | Intro a Machine Learning* | [Workshop 12]() | [`Banking Churn`](https://colab.research.google.com/drive/1cRTBNRTUEZGoA3mkSEZNxXW1qIlwVZuf?usp=sharing) | [`Decision and Classification Trees, Clearly Explained!!!`](https://youtu.be/_L39rN6gz7Y) · [`Clasificación con Árboles de Decisión ¡EN 15 MINUTOS!`](https://youtu.be/kqaLlte6P6o) · [`Visual Guide to Random Forests`](https://youtu.be/cIbj0WuK41w) · [`R2D3`](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) · [`8 Mistakes Holding Your Career Back`](https://youtu.be/yrtAoBr3iuQ) · [`Teoría de la información`](https://youtu.be/4ic-J79O9hg) |
 
@@ -55,8 +55,8 @@ En los siguientes links podrán acceder al parcial correspondiente, el cual esta
 
 A lo largo del semestre tendremos algunas lecturas obligatorias que complementan su conocimiento. Abajo podrán consultar el libro y sus especificaciones
 
-| Libro / Author | Link | Capítulos |
-|----------------|------|-----------|
+| Título | Link | Capítulos |
+|--------|------|-----------|
 
 
 
@@ -66,43 +66,19 @@ A lo largo del semestre tendremos algunas lecturas obligatorias que complementan
 <img src="https://github.com/milioe/Econometrics/raw/main/images/IMG_8146.png" alt="foto">
 
 
-# LIBROS
-Algunos de ustedes me pidieron un libro en español con temas de Machine Learning y Deep Learning. Les dejo este libro ([Aprende Machine Learning con Scikit-Learn, Keras y TensorFlow](https://www.amazon.com.mx/Aprende-Machine-Learning-Scikit-Learn-TensorFlow/dp/8441542643)) el cual yo recomiendo leer en inglés para que se acostumbre a los tecnisismos, pero igual lo importante es comenzar, y este libro está completamente orientado a la parte práctica con Python sin olvidar la teoría. Este libro es de los más usados, y guía para la certificación de TensorFlow.
 
-
-
-* **
-
-
-
-
-
-# Recursos a utilizar en clase:
-Tema al que hace referencia | Recurso | Aportación al proceso de aprendizaje
---- | --- | --- |
-Info del curso | [Whimsical](https://whimsical.com/econometrics-i-U3gpSBnYKG1UqAS6Fbi7nB) | Mapa mental del avance del curso
-Introducción a la estadística | [Brilliant](https://brilliant.org/classroom/join/4i6wh4/) | Da click para unirte al classroom
-Regresión Lineal| [Viendo la teoría](https://seeing-theory.brown.edu/es.html#firstPage) | Probabilidad, distribuciones, bayes y regresión con explicaciones interactivas
+Introducción a la estadística |  | Da click para unirte al classroom
+Regresión Lineal|  | Probabilidad, distribuciones, bayes y regresión con explicaciones interactivas
 Regresión Lineal | [Ordinary Least Squares Regression](https://setosa.io/ev/ordinary-least-squares-regression/) |Explicación visual de mínimos cuadrados ordinarios. Recominedo checar todas las páginas, no sólo essa sección, hay posts sobre PCA, π, etc
 Multicolinealidad | [Ejercicio de lectura de matriz](https://github.com/milioe/Econometrics/blob/main/Otros/multi.md) 
 Datasets Kaggle | [`Song Popularity`](https://www.kaggle.com/datasets/yasserh/song-popularity-dataset), [`Walmart`](https://www.kaggle.com/datasets/yasserh/walmart-dataset), [`Marketing`](https://www.kaggle.com/datasets/fayejavad/marketing-linear-multiple-regression), [`Startup`](https://www.kaggle.com/datasets/karthickveerakumar/startup-logistic-regression), [`Life Expectancy`](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who), 
 
 
-# Códigos de la clase
-Tema | Link | Notas
---- | --- | --- |
-Latex | [Ejemplo de reporte en overleaf](https://es.overleaf.com/read/yfkdyvzsrgsy) | Documento que se trabajó en clase
-Intro a Python | [`Intro a python`](https://colab.research.google.com/drive/126_rw2zj386U63u1f5Vq5-8mHlZDXkii?usp=sharing), [Tutorial de instalación de python](https://youtu.be/P0mE6Y9JWIA) | Código completo de Introducción a python |
-Regresión Lineal con Python | [`Regresión Lineal Simple`](https://colab.research.google.com/drive/1FTRCVah2VgV0z2ypdm7UbWPuZjRomoYx?usp=sharing), [`Regresión con librerías`](https://colab.research.google.com/drive/1-6mTQAfkD4Jm8t1Op8QnwkmLZRPiWa6E?usp=sharing) | |
-
 
 # Fuentes adicionales
 
-Finalmente, dejamos algunos links a páginas, artículos y videos que creemos pudieran ayudar a su formación económica cuantitativa:
 
-Link | Notas |
---- | --- | 
-[Spurious Correlations](https://www.tylervigen.com/spurious-correlations)|Correlaciones espurias|
+
 [Heuristics That Almost Always Work](https://astralcodexten.substack.com/p/heuristics-that-almost-always-work?fbclid=IwAR2TfPVUSPfQ6NprLyOz_jBaUKT2El-p7xAv0bZswD_sbGnSS5ewT7Z3YoY&r=c1qut) | El arte de la heurística pudiera ser el paso número cero en cualquier modelación
 [The Datasaurus Dozen](https://blog.revolutionanalytics.com/2017/05/the-datasaurus-dozen.html) | La importancia de graficar|
 [How to Use Occam’s Razor Without Getting Cut](https://fs.blog/occams-razor/) | |
@@ -122,7 +98,7 @@ Link | Notas |
 [R2D3](http://www.r2d3.us/) | Explicaciones visuales de Machine Learning y estadística en general | 
 |[Assumptions of Linear Regression](https://typefully.com/capeandcode/6rLloV5) | 
 |[Statistical tests, P values, confidence intervals, and power: a guide to misinterpretations](https://link.springer.com/content/pdf/10.1007/s10654-016-0149-3.pdf)|
-| [Time Series Problems Simply Explained as Fast Food Combo Meals](https://towardsdatascience.com/time-series-problems-simply-explained-as-fast-food-combo-meals-70c6eb9bdef) | 
+|  | 
 | [Is n = 30 really enough? A popular inductive fallacy among data analysts](https://towardsdatascience.com/is-n-30-really-enough-a-popular-inductive-fallacy-among-data-analysts-95661669dd98) | 
 | [Breaking it Down: Logistic Regression](https://towardsdatascience.com/breaking-it-down-logistic-regression-e5c3f1450bd#6a7a) |
 | [`Assumptions of Linear Regression`](https://youtu.be/sDrAoR17pNM), [`Interpreting Linear Regression Results`](https://youtu.be/rLkysIyO7-U), [`Simple Linear Regressions`](https://youtu.be/vnQIW5ts3eM) | Videos útiles para repaso de primer parical
