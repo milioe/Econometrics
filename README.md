@@ -10,9 +10,9 @@
 En este repositorio encontrarás **todo el material necesario para el curso**. Te recomendamos tener este sitio disponible en cada clase, así como revisarlo constantemente. ¡Cualquier duda o comentario, no dudes en contactárnos!
 
 * Humberto Acevedo
-  * [hac106@hotmail.com](mailto:hac106@hotmail.com)
+  * 📬 [hac106@hotmail.com](mailto:hac106@hotmail.com)
 * Emilio Sandoval Palomino
-  * [emilio.sandpal@gmail.com](mailto:emilio.sandpal@gmail.com)
+  * 📬 [emilio.sandpal@gmail.com](mailto:emilio.sandpal@gmail.com)
 
 * **
 
