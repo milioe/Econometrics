@@ -48,13 +48,19 @@ En los siguientes links podrán acceder al parcial correspondiente, el cual esta
 | `Regresión lineal` · `Forma funcional` · `Multicolinealidad` · `Normalidad` · `Homoscedasticidad` · `Autocorrelación`| [Parcial 1]() |
 | `Logit-Probit` · `Datos Panel` · `Ecuaciones Simultáneas` · `Series de tiempo` · `Cointegración` | [Parcial 2]() | 
 
+* **
+
+
+# 📚 Libros
+
+A lo largo del semestre tendremos algunas lecturas obligatorias que complementan su conocimiento. Abajo podrán consultar el libro y sus especificaciones
+
+| Libro / Author | Link | Capítulos |
+|----------------|------|-----------|
 
 
 
-
-
-
-
+* **
 
 # Foto Grupal
 <img src="https://github.com/milioe/Econometrics/raw/main/images/IMG_8146.png" alt="foto">
