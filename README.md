@@ -1,34 +1,56 @@
 # Econometría I
+## Facultad de Economía · UNAM · Semestre 2023-2
 
 > *"In theory, there is no difference between theory and practice. But in practice, there is"*  
 > -Benjamin Brewster
 
 * **
+# ¡Bienvenido a la clase!
 
-# 🚨🚨🚨 Segundo Parcial 🚨🚨🚨
-
-En el siguiente link encontrarán el typeform del segundo parcial. El examen es en horario de clase y la dinámica es la misma que en el parcial anterior. El sistema marca la hora en la que se envía el examen, por lo que se les recomienda terminarlo antes del medio día. Recuerden que para moverse entre las preguntas, se ocupan las flechitas azules de la parte de abajo.
-
-Cualquier cosa no duden en mandarnos correo. ¡Mucha suerte! 😉
-
-* [Link de segundo parcial](https://tz2qqz0vdh1.typeform.com/to/rEQ4LG9g)
-
-* **
-
-# ML
-Videos para clases de Machine Learning (5 y 7 de diciembre)
-* [Decision and Classification Trees, Clearly Explained!!!](https://youtu.be/_L39rN6gz7Y)
-* [Clasificación con Árboles de Decisión ¡EN 15 MINUTOS!](https://youtu.be/kqaLlte6P6o)
-* [Visual Guide to Random Forests](https://youtu.be/cIbj0WuK41w)
-* [8 Mistakes Holding Your Career Back | Machine Learning](https://youtu.be/yrtAoBr3iuQ) (un poco de motivación)
-* [Diapositivas de conferencia](https://github.com/milioe/Machine-Learning-y-Economia/blob/main/IMEF_MLEco.pdf)
-* [Teoría de la información](https://youtu.be/4ic-J79O9hg)
-* [R2D3](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+En este repositorio de Github encontrarás **todo el material necesario para el curso**. Te recomendamos tener este sitio disponible en cada clase, así como revisarlo constantemente. ¡Cualquier duda o comentario, no dudes en contactárnos!
 
 
-## Notebooks de clase ML:
-1. [Machine Learning I](https://colab.research.google.com/drive/1cRTBNRTUEZGoA3mkSEZNxXW1qIlwVZuf?usp=sharing)
-2. [Series de tiempo I]()
+* Humberto Acevedo
+  * [hac106@hotmail.com](mailto:hac106@hotmail.com)
+* Emilio Sandoval Palomino
+  * [emilio.sandpal@gmail.com](mailto:emilio.sandpal@gmail.com)
+
+
+
+# 👨‍🏫 Unidades
+
+| Unidad | Slides | Código | Recursos Adicionales |
+|--------|--------|--------|----------------------|
+| Presentación de curso | [Welcome]() | | [Cuestionario general]() |
+| Regresión lineal| [Workshop 1]() | [`Intro a Python`](https://colab.research.google.com/drive/1b57SV3m-gevwQ0xFFhyvgqRUuHDKawZY?usp=sharing), [`Regresión lineal artesanal`](https://colab.research.google.com/drive/1FTRCVah2VgV0z2ypdm7UbWPuZjRomoYx?usp=sharing) | []
+| Forma Funcional  | [Workshop 2]() | | |
+| Multicolinealidad | [Workshop 3]() | | |
+| Normalidad | [Workshop 4]() | | |
+| Homoscedasticidad | [Workshop 5]() | [``]() | |
+| Autocorrelación | [Workshop 6]() | [`Regresión cellphones`](https://colab.research.google.com/drive/1-6mTQAfkD4Jm8t1Op8QnwkmLZRPiWa6E?usp=sharing) | |
+| Logit - Probit | [Workshop 7]() | [``]() | |
+| Datos Panel | [Workshop 8]() | [``]() | |
+| Ecuaciones simultáneas | [Workshop 9]() | [``]() | |
+| Series de tiempo | [Workshop 10]() | [`Predicción de clima`]() | |
+| Cointegración | [Workshop 11]() | [``]() | |
+| Intro a ML* | [Workshop 12]() | [`Banking Churn`](https://colab.research.google.com/drive/1cRTBNRTUEZGoA3mkSEZNxXW1qIlwVZuf?usp=sharing) | [`Decision and Classification Trees, Clearly Explained!!!`](https://youtu.be/_L39rN6gz7Y), [`Clasificación con Árboles de Decisión ¡EN 15 MINUTOS!`](https://youtu.be/kqaLlte6P6o), [`Visual Guide to Random Forests`](https://youtu.be/cIbj0WuK41w), [`R2D3`](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/), [`8 Mistakes Holding Your Career Back`](https://youtu.be/yrtAoBr3iuQ), [`Teoría de la información`](https://youtu.be/4ic-J79O9hg) |
+
+
+
+
+# 🧠 Parciales
+
+En los siguientes links podrán acceder al parcial correspondiente, el cual estará habilitado únicamente en horario de clase. Apostamos a su profesionalismo, por lo que esperamos no consulten ninguna página externa al cuestionario mientras se contesta. Las instrucciones técnicas se especifican al comenzar el examen. ¡Mucha suerte! 😉
+
+| Unidades que abarca | Link del examen |
+|---------------------|-----------------|
+| `Regresión lineal`, `Forma funcional`, `Multicolinealidad`, `Normalidad`, `Homoscedasticidad`, `Autocorrelación`| [Parcial 1]() |
+| `Logit-Probit`, `Datos Panel`, `Ecuaciones Simultáneas`, `Series de tiempo`, `Cointegración` | [Parcial 2]() | 
+
+
+
+
+
 
 
 
@@ -43,16 +65,9 @@ Algunos de ustedes me pidieron un libro en español con temas de Machine Learnin
 
 
 * **
-¡Bienvenido a la clase!
 
-En este repositorio de Github encontrarás todo lo necesario para el curso, por ejemplo:
-* 📁 **Datasets**: archivos `.csv` que utilizaremos con python
-* 📁 **Papers**: Todos los papers académicos que utilizaremos en la clase
-* 📁 **Datasets STATA**: Todos los datasets de Wooldridge en formato `.dta`. Necesitarás descargarlos de acá cada que ocupemos uno en clase
-* 📁 **PowerPoints**: Presentaciones de la clase en formato `.pdf`
 
-* [Link de datos de cointegracion](https://docs.google.com/spreadsheets/d/1gaOUBAVoPPiGVQWQdomO2zoQt7QSgO2-/edit?usp=sharing&ouid=109293680949375961319&rtpof=true&sd=true)
-* [Espurias](http://tylervigen.com/spurious-correlations)
+
 
 
 # Recursos a utilizar en clase:
