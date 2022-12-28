@@ -45,8 +45,8 @@ En los siguientes links podrán acceder al parcial correspondiente, el cual esta
 
 | Unidades que abarca | Link del examen |
 |---------------------|-----------------|
-| `Regresión lineal`, `Forma funcional`, `Multicolinealidad`, `Normalidad`, `Homoscedasticidad`, `Autocorrelación`| [Parcial 1]() |
-| `Logit-Probit`, `Datos Panel`, `Ecuaciones Simultáneas`, `Series de tiempo`, `Cointegración` | [Parcial 2]() | 
+| `Regresión lineal` · `Forma funcional` · `Multicolinealidad` · `Normalidad` · `Homoscedasticidad` · `Autocorrelación`| [Parcial 1]() |
+| `Logit-Probit` · `Datos Panel` · `Ecuaciones Simultáneas` · `Series de tiempo` · `Cointegración` | [Parcial 2]() | 
 
 
 
