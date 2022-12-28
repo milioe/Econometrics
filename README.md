@@ -21,7 +21,7 @@ En este repositorio encontrarás **todo el material necesario para el curso**. T
 | Unidad | Slides | Código | Recursos Adicionales |
 |--------|--------|--------|----------------------|
 | Presentación de curso | [Welcome]() | | [`Syllabus`]() · [`Cuestionario general`]() · [`Whimsical del curso`](https://whimsical.com/econometrics-i-U3gpSBnYKG1UqAS6Fbi7nB)|
-| Regresión lineal| [Workshop 1]() | [`Intro a LaTeX`]() · [`Intro a Python`](https://colab.research.google.com/drive/1b57SV3m-gevwQ0xFFhyvgqRUuHDKawZY?usp=sharing) · [`Regresión lineal artesanal`](https://colab.research.google.com/drive/1FTRCVah2VgV0z2ypdm7UbWPuZjRomoYx?usp=sharing) |  [`Brilliant`](https://brilliant.org/classroom/join/4i6wh4/) · [`Viendo la teoría`](https://seeing-theory.brown.edu/es.html#firstPage) · [`Spurious Correlations`](https://www.tylervigen.com/spurious-correlations) · [`Kaggle`](https://www.kaggle.com/)
+| Regresión lineal| [Workshop 1]() | [`Intro a LaTeX`]() · [`Intro a Python`](https://colab.research.google.com/drive/1b57SV3m-gevwQ0xFFhyvgqRUuHDKawZY?usp=sharing) · [`Regresión lineal artesanal`](https://colab.research.google.com/drive/1FTRCVah2VgV0z2ypdm7UbWPuZjRomoYx?usp=sharing) |  [`Brilliant`](https://brilliant.org/classroom/join/4i6wh4/) · [`Viendo la teoría`](https://seeing-theory.brown.edu/es.html#firstPage) · [`Setosa.io`](https://setosa.io/ev/) · [`Spurious Correlations`](https://www.tylervigen.com/spurious-correlations) · [`Kaggle`](https://www.kaggle.com/)
 | Forma Funcional  | [Workshop 2]() | | |
 | Multicolinealidad | [Workshop 3]() | | |
 | Normalidad | [Workshop 4]() | | |
@@ -58,8 +58,6 @@ A lo largo del semestre tendremos algunas lecturas obligatorias que complementan
 | Título | Link | Capítulos |
 |--------|------|-----------|
 
-
-
 * **
 
 # Foto Grupal
@@ -73,7 +71,7 @@ Regresión Lineal | [Ordinary Least Squares Regression](https://setosa.io/ev/ord
 Multicolinealidad | [Ejercicio de lectura de matriz](https://github.com/milioe/Econometrics/blob/main/Otros/multi.md) 
 Datasets Kaggle | [`Song Popularity`](https://www.kaggle.com/datasets/yasserh/song-popularity-dataset), [`Walmart`](https://www.kaggle.com/datasets/yasserh/walmart-dataset), [`Marketing`](https://www.kaggle.com/datasets/fayejavad/marketing-linear-multiple-regression), [`Startup`](https://www.kaggle.com/datasets/karthickveerakumar/startup-logistic-regression), [`Life Expectancy`](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who), 
 
-
+<!---
 
 # Fuentes adicionales
 
@@ -95,16 +93,15 @@ Datasets Kaggle | [`Song Popularity`](https://www.kaggle.com/datasets/yasserh/so
 [Why you should always visualize your data](https://youtu.be/WLQ4GLqMVpw)| | 
 [p-hacker: Train your p-hacking skills!](http://shinyapps.org/apps/p-hacker/) | |
 [Looking at the distribution: histograms and kernel density plots](https://modelinginbiology.github.io/looking-at-the-distribution) | |
-[R2D3](http://www.r2d3.us/) | Explicaciones visuales de Machine Learning y estadística en general | 
 |[Assumptions of Linear Regression](https://typefully.com/capeandcode/6rLloV5) | 
 |[Statistical tests, P values, confidence intervals, and power: a guide to misinterpretations](https://link.springer.com/content/pdf/10.1007/s10654-016-0149-3.pdf)|
-|  | 
 | [Is n = 30 really enough? A popular inductive fallacy among data analysts](https://towardsdatascience.com/is-n-30-really-enough-a-popular-inductive-fallacy-among-data-analysts-95661669dd98) | 
 | [Breaking it Down: Logistic Regression](https://towardsdatascience.com/breaking-it-down-logistic-regression-e5c3f1450bd#6a7a) |
 | [`Assumptions of Linear Regression`](https://youtu.be/sDrAoR17pNM), [`Interpreting Linear Regression Results`](https://youtu.be/rLkysIyO7-U), [`Simple Linear Regressions`](https://youtu.be/vnQIW5ts3eM) | Videos útiles para repaso de primer parical
 [`Time Series Analysis Introduction — A Comparison of ARMA, ARIMA, SARIMA Models`](https://towardsdatascience.com/time-series-analysis-introduction-a-comparison-of-arma-arima-sarima-models-eea5cbf43c73)
 
 
+-->
 
 # Recomendaciones de libros
 Link | Comentarios |
