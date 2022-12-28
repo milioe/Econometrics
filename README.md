@@ -27,7 +27,7 @@ En este repositorio encontrarás **todo el material necesario para el curso**. T
 | Normalidad | [Workshop 4]() | | |
 | Homoscedasticidad | [Workshop 5]() |  | |
 | Autocorrelación | [Workshop 6]() | [`Regresión cellphones`](https://colab.research.google.com/drive/1-6mTQAfkD4Jm8t1Op8QnwkmLZRPiWa6E?usp=sharing) | |
-| Logit - Probit | [Workshop 7]() |  | [Breaking it Down: Logistic Regression](https://towardsdatascience.com/breaking-it-down-logistic-regression-e5c3f1450bd#6a7a) |
+| Logit - Probit | [Workshop 7]() |  | [`Breaking it Down: Logistic Regression`](https://towardsdatascience.com/breaking-it-down-logistic-regression-e5c3f1450bd#6a7a) |
 | Datos Panel | [Workshop 8]() |  | |
 | Ecuaciones simultáneas | [Workshop 9]() | | |
 | Series de tiempo | [Workshop 10]() | [`Predicción de clima`]() | [`Time Series Problems Simply Explained as Fast Food Combo Meals`](https://towardsdatascience.com/time-series-problems-simply-explained-as-fast-food-combo-meals-70c6eb9bdef)|
