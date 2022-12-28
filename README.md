@@ -14,6 +14,12 @@ En este repositorio encontrarás **todo el material necesario para el curso**. T
 * Emilio Sandoval Palomino
   * 📬 [emilio.sandpal@gmail.com](mailto:emilio.sandpal@gmail.com)
 
+
+<!---
+* **
+# 🚨🚨🚨 Anuncios 🚨🚨🚨
+-->
+
 * **
 
 # 👨‍🏫 Unidades
