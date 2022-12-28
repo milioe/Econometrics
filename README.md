@@ -100,7 +100,7 @@ Algunos artículos adicionales sobre econometría, analítica y temas afines:
 |[Statistical tests, P values, confidence intervals, and power: a guide to misinterpretations](https://link.springer.com/content/pdf/10.1007/s10654-016-0149-3.pdf)|
 | [Is n = 30 really enough? A popular inductive fallacy among data analysts](https://towardsdatascience.com/is-n-30-really-enough-a-popular-inductive-fallacy-among-data-analysts-95661669dd98) | 
 
-
+* **
 
 
 # 🤯 Recomendaciones de libros
