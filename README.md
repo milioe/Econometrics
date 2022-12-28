@@ -20,8 +20,8 @@ En este repositorio encontrarás **todo el material necesario para el curso**. T
 
 | Unidad | Slides | Código | Recursos Adicionales |
 |--------|--------|--------|----------------------|
-| Presentación de curso | [Welcome]() | | [Cuestionario general]() |
-| Regresión lineal| [Workshop 1]() | [`Intro a Python`](https://colab.research.google.com/drive/1b57SV3m-gevwQ0xFFhyvgqRUuHDKawZY?usp=sharing), [`Regresión lineal artesanal`](https://colab.research.google.com/drive/1FTRCVah2VgV0z2ypdm7UbWPuZjRomoYx?usp=sharing) | 
+| Presentación de curso | [Welcome]() | | [`Cuestionario general`]() |
+| Regresión lineal| [Workshop 1]() | [`Intro a Python`](https://colab.research.google.com/drive/1b57SV3m-gevwQ0xFFhyvgqRUuHDKawZY?usp=sharing), [`Regresión lineal artesanal`](https://colab.research.google.com/drive/1FTRCVah2VgV0z2ypdm7UbWPuZjRomoYx?usp=sharing) | [`Kaggle`](https://www.kaggle.com/)
 | Forma Funcional  | [Workshop 2]() | | |
 | Multicolinealidad | [Workshop 3]() | | |
 | Normalidad | [Workshop 4]() | | |
