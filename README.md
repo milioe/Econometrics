@@ -21,7 +21,7 @@ En este repositorio encontrarás **todo el material necesario para el curso**. T
 | Unidad | Slides | Código | Recursos Adicionales |
 |--------|--------|--------|----------------------|
 | Presentación de curso | [Welcome]() | | [`Syllabus`]() · [`Cuestionario general`]() · [`Whimsical del curso`]()|
-| Regresión lineal| [Workshop 1]() | [`Intro a Python`](https://colab.research.google.com/drive/1b57SV3m-gevwQ0xFFhyvgqRUuHDKawZY?usp=sharing), [`Regresión lineal artesanal`](https://colab.research.google.com/drive/1FTRCVah2VgV0z2ypdm7UbWPuZjRomoYx?usp=sharing) | [`Kaggle`](https://www.kaggle.com/)
+| Regresión lineal| [Workshop 1]() | [`Intro a Python`](https://colab.research.google.com/drive/1b57SV3m-gevwQ0xFFhyvgqRUuHDKawZY?usp=sharing) · [`Regresión lineal artesanal`](https://colab.research.google.com/drive/1FTRCVah2VgV0z2ypdm7UbWPuZjRomoYx?usp=sharing) | [`Kaggle`](https://www.kaggle.com/)
 | Forma Funcional  | [Workshop 2]() | | |
 | Multicolinealidad | [Workshop 3]() | | |
 | Normalidad | [Workshop 4]() | | |
@@ -32,9 +32,9 @@ En este repositorio encontrarás **todo el material necesario para el curso**. T
 | Ecuaciones simultáneas | [Workshop 9]() | | |
 | Series de tiempo | [Workshop 10]() | [`Predicción de clima`]() | |
 | Cointegración | [Workshop 11]() |  | |
-| Intro a ML* | [Workshop 12]() | [`Banking Churn`](https://colab.research.google.com/drive/1cRTBNRTUEZGoA3mkSEZNxXW1qIlwVZuf?usp=sharing) | [`Decision and Classification Trees, Clearly Explained!!!`](https://youtu.be/_L39rN6gz7Y) · [`Clasificación con Árboles de Decisión ¡EN 15 MINUTOS!`](https://youtu.be/kqaLlte6P6o) · [`Visual Guide to Random Forests`](https://youtu.be/cIbj0WuK41w) · [`R2D3`](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) · [`8 Mistakes Holding Your Career Back`](https://youtu.be/yrtAoBr3iuQ) · [`Teoría de la información`](https://youtu.be/4ic-J79O9hg) |
+| Intro a Machine Learning* | [Workshop 12]() | [`Banking Churn`](https://colab.research.google.com/drive/1cRTBNRTUEZGoA3mkSEZNxXW1qIlwVZuf?usp=sharing) | [`Decision and Classification Trees, Clearly Explained!!!`](https://youtu.be/_L39rN6gz7Y) · [`Clasificación con Árboles de Decisión ¡EN 15 MINUTOS!`](https://youtu.be/kqaLlte6P6o) · [`Visual Guide to Random Forests`](https://youtu.be/cIbj0WuK41w) · [`R2D3`](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) · [`8 Mistakes Holding Your Career Back`](https://youtu.be/yrtAoBr3iuQ) · [`Teoría de la información`](https://youtu.be/4ic-J79O9hg) |
 
-\* Opcional, a votación del grupo y a expensas de cubrir el temario de la facultad.
+\* opcional, a votación del grupo y a expensas de cubrir el temario de la facultad.
 
 * **
 
