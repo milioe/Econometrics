@@ -79,6 +79,7 @@ A lo largo del semestre tendremos algunas lecturas obligatorias que complementan
 Algunos artículos adicionales sobre econometría, analítica y temas afines:
 
 | Link | Descripción |
+--- | --- | 
 [Heuristics That Almost Always Work](https://astralcodexten.substack.com/p/heuristics-that-almost-always-work?fbclid=IwAR2TfPVUSPfQ6NprLyOz_jBaUKT2El-p7xAv0bZswD_sbGnSS5ewT7Z3YoY&r=c1qut) | El arte de la heurística pudiera ser el paso número cero en cualquier modelación
 [The Datasaurus Dozen](https://blog.revolutionanalytics.com/2017/05/the-datasaurus-dozen.html) | La importancia de graficar|
 [How to Use Occam’s Razor Without Getting Cut](https://fs.blog/occams-razor/) | |
