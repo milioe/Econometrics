@@ -103,7 +103,7 @@ Algunos artículos adicionales sobre econometría, analítica y temas afines:
 
 
 
-# Recomendaciones de libros
+# 🤯 Recomendaciones de libros
 Link | Comentarios |
 --- | --- | 
 [**El cisne negro**](https://www.amazon.com.mx/El-Cisne-Negro-Altamente-Improbable/dp/6079202557/ref=sr_1_1?keywords=el+cisne+negro&qid=1660584981&sprefix=el+cisne%2Caps%2C135&sr=8-1) · *Nassim Nicholas Taleb* | | 
