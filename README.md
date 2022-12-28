@@ -50,6 +50,17 @@ En los siguientes links podrán acceder al parcial correspondiente, el cual esta
 
 * **
 
+<!---
+# 💪 Repaso
+Recursos para repasar para el examen: 
+
+* [`Assumptions of Linear Regression`](https://youtu.be/sDrAoR17pNM)
+* [`Interpreting Linear Regression Results`](https://youtu.be/rLkysIyO7-U)
+* [`Simple Linear Regressions`](https://youtu.be/vnQIW5ts3eM)
+* [`Time Series Analysis Introduction — A Comparison of ARMA, ARIMA, SARIMA Models`](https://towardsdatascience.com/time-series-analysis-introduction-a-comparison-of-arma-arima-sarima-models-eea5cbf43c73)
+-->
+
+
 
 # 📚 Libros
 
@@ -60,23 +71,14 @@ A lo largo del semestre tendremos algunas lecturas obligatorias que complementan
 
 * **
 
-# Foto Grupal
-<img src="https://github.com/milioe/Econometrics/raw/main/images/IMG_8146.png" alt="foto">
 
 
 
-Introducción a la estadística |  | Da click para unirte al classroom
-Regresión Lineal|  | Probabilidad, distribuciones, bayes y regresión con explicaciones interactivas
-Regresión Lineal | [Ordinary Least Squares Regression](https://setosa.io/ev/ordinary-least-squares-regression/) |Explicación visual de mínimos cuadrados ordinarios. Recominedo checar todas las páginas, no sólo essa sección, hay posts sobre PCA, π, etc
-Multicolinealidad | [Ejercicio de lectura de matriz](https://github.com/milioe/Econometrics/blob/main/Otros/multi.md) 
-Datasets Kaggle | [`Song Popularity`](https://www.kaggle.com/datasets/yasserh/song-popularity-dataset), [`Walmart`](https://www.kaggle.com/datasets/yasserh/walmart-dataset), [`Marketing`](https://www.kaggle.com/datasets/fayejavad/marketing-linear-multiple-regression), [`Startup`](https://www.kaggle.com/datasets/karthickveerakumar/startup-logistic-regression), [`Life Expectancy`](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who), 
+# 🤓 Fuentes adicionales
 
-<!---
+Algunos artículos adicionales sobre econometría, analítica y temas afines:
 
-# Fuentes adicionales
-
-
-
+| Link | Descripción |
 [Heuristics That Almost Always Work](https://astralcodexten.substack.com/p/heuristics-that-almost-always-work?fbclid=IwAR2TfPVUSPfQ6NprLyOz_jBaUKT2El-p7xAv0bZswD_sbGnSS5ewT7Z3YoY&r=c1qut) | El arte de la heurística pudiera ser el paso número cero en cualquier modelación
 [The Datasaurus Dozen](https://blog.revolutionanalytics.com/2017/05/the-datasaurus-dozen.html) | La importancia de graficar|
 [How to Use Occam’s Razor Without Getting Cut](https://fs.blog/occams-razor/) | |
@@ -97,11 +99,8 @@ Datasets Kaggle | [`Song Popularity`](https://www.kaggle.com/datasets/yasserh/so
 |[Statistical tests, P values, confidence intervals, and power: a guide to misinterpretations](https://link.springer.com/content/pdf/10.1007/s10654-016-0149-3.pdf)|
 | [Is n = 30 really enough? A popular inductive fallacy among data analysts](https://towardsdatascience.com/is-n-30-really-enough-a-popular-inductive-fallacy-among-data-analysts-95661669dd98) | 
 | [Breaking it Down: Logistic Regression](https://towardsdatascience.com/breaking-it-down-logistic-regression-e5c3f1450bd#6a7a) |
-| [`Assumptions of Linear Regression`](https://youtu.be/sDrAoR17pNM), [`Interpreting Linear Regression Results`](https://youtu.be/rLkysIyO7-U), [`Simple Linear Regressions`](https://youtu.be/vnQIW5ts3eM) | Videos útiles para repaso de primer parical
-[`Time Series Analysis Introduction — A Comparison of ARMA, ARIMA, SARIMA Models`](https://towardsdatascience.com/time-series-analysis-introduction-a-comparison-of-arma-arima-sarima-models-eea5cbf43c73)
 
 
--->
 
 # Recomendaciones de libros
 Link | Comentarios |
@@ -113,3 +112,11 @@ Link | Comentarios |
 [Outliers: The story of success](https://www.amazon.com.mx/Fueras-serie-personas-tienen-%C3%A9xito/dp/6073141866/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1661724784&sr=8-2) - Malcolm Gladwell | |
 [Prediction Machines: The Simple Economics of Artificial Intelligence](https://www.amazon.com.mx/gp/product/1633695670/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1) - Ajay Agrawal |  | 
 
+
+
+<!---
+# Foto Grupal
+<img src="https://github.com/milioe/Econometrics/raw/main/images/IMG_8146.png" alt="foto">
+
+Datasets Kaggle | [`Song Popularity`](https://www.kaggle.com/datasets/yasserh/song-popularity-dataset), [`Walmart`](https://www.kaggle.com/datasets/yasserh/walmart-dataset), [`Marketing`](https://www.kaggle.com/datasets/fayejavad/marketing-linear-multiple-regression), [`Startup`](https://www.kaggle.com/datasets/karthickveerakumar/startup-logistic-regression), [`Life Expectancy`](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who), 
+-->
