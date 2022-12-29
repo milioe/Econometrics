@@ -75,7 +75,7 @@ Recursos para repasar para el examen:
 | $R^2$ Equipo 1 | `%` | `%`| `%`| `%`| `%` | 
 | $R^2$ Equipo 2 | `%` | `%`| `%`| `%`| `%` | 
 
-
+* **
 
 
 # 📚 Libros
