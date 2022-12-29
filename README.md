@@ -66,6 +66,15 @@ Recursos para repasar para el examen:
 * [`Time Series Analysis Introduction — A Comparison of ARMA, ARIMA, SARIMA Models`](https://towardsdatascience.com/time-series-analysis-introduction-a-comparison-of-arma-arima-sarima-models-eea5cbf43c73)
 -->
 
+# 🥇🥈🥉 Competencias 🏆 
+## Regresión lineal
+
+|Equipo| #1 | #2 | #3 | #4 | #5 | #6 |
+|------|----|----|----|----|----|----|
+|Dataset|  [`Admision`](https://www.kaggle.com/datasets/akshaydattatraykhare/data-for-admission-in-the-university) | [`Insurance`](https://www.kaggle.com/datasets/noordeen/insurance-premium-prediction) | [`Profit`](https://www.kaggle.com/datasets/studymart/profit-prediction-using-linear-regression) | [`Fish`](https://www.kaggle.com/datasets/aungpyaeap/fish-market) | [`Wine`](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009) | [`StartUp`](https://www.kaggle.com/datasets/karthickveerakumar/startup-logistic-regression) |
+| $R^2$ | | | | | | |
+
+
 
 
 # 📚 Libros
