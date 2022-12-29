@@ -67,12 +67,13 @@ Recursos para repasar para el examen:
 -->
 
 # 🥇🥈🥉 Competencias 🏆 
-## Regresión lineal
+## Regresión lineal (LeaderBoard)
 
-|Equipo| #1 | #2 | #3 | #4 | #5 | #6 |
-|------|----|----|----|----|----|----|
-|Dataset|  [`Admision`](https://www.kaggle.com/datasets/akshaydattatraykhare/data-for-admission-in-the-university) | [`Insurance`](https://www.kaggle.com/datasets/noordeen/insurance-premium-prediction) | [`Profit`](https://www.kaggle.com/datasets/studymart/profit-prediction-using-linear-regression) | [`Fish`](https://www.kaggle.com/datasets/aungpyaeap/fish-market) | [`Wine`](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009) | [`StartUp`](https://www.kaggle.com/datasets/karthickveerakumar/startup-logistic-regression) |
-| $R^2$ | | | | | | |
+|      | #1 | #2 | #3 | #4 | #5 |
+|------|----|----|----|----|----|
+|Dataset|  [`Admision`](https://www.kaggle.com/datasets/akshaydattatraykhare/data-for-admission-in-the-university) | [`Insurance`](https://www.kaggle.com/datasets/noordeen/insurance-premium-prediction) | [`Profit`](https://www.kaggle.com/datasets/studymart/profit-prediction-using-linear-regression) | [`Fish`](https://www.kaggle.com/datasets/aungpyaeap/fish-market) |  | [`StartUp`](https://www.kaggle.com/datasets/karthickveerakumar/startup-logistic-regression) |
+| $R^2$ Equipo 1 | `%` | `%`| `%`| `%`| `%` | 
+| $R^2$ Equipo 2 | `%` | `%`| `%`| `%`| `%` | 
 
 
 
