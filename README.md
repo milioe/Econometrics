@@ -117,6 +117,7 @@ Algunos artículos adicionales sobre econometría, analítica y temas afines:
 |[Statistical tests, P values, confidence intervals, and power: a guide to misinterpretations](https://link.springer.com/content/pdf/10.1007/s10654-016-0149-3.pdf)|
 | [Is n = 30 really enough? A popular inductive fallacy among data analysts](https://towardsdatascience.com/is-n-30-really-enough-a-popular-inductive-fallacy-among-data-analysts-95661669dd98) | 
 | [How Data Leakage affects model performance claims](https://towardsdatascience.com/how-data-leakage-affects-model-performance-claims-841eb01276bb) | Una razón más intuitiva que matemática de porqué no es bueno tener variables independientes *proxy* a la variable dependiente, o que estén correlacionadas y por lo tanto la regresión muestre signos de multicolinealidad. |
+| [Knowledge structures](https://www.francismiller.com/knowledge-structures-an-introduction-to-the-concept/) | Entendimiento de los diferentes problemas y cómo abordarlos |
 
 * **
 
