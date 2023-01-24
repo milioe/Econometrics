@@ -38,7 +38,7 @@ En este repositorio encontrarás **todo el material necesario para el curso**. T
 | Ecuaciones simultáneas | [Workshop 9]() | | |
 | Series de tiempo | [Workshop 10]() | [`Predicción de clima`]() | [`Time Series Problems Simply Explained as Fast Food Combo Meals`](https://towardsdatascience.com/time-series-problems-simply-explained-as-fast-food-combo-meals-70c6eb9bdef)|
 | Cointegración | [Workshop 11]() |  | |
-| Intro a Machine Learning* | [Workshop 12]() | [`Banking Churn`](https://colab.research.google.com/drive/1cRTBNRTUEZGoA3mkSEZNxXW1qIlwVZuf?usp=sharing) | [`Decision and Classification Trees, Clearly Explained!!!`](https://youtu.be/_L39rN6gz7Y) · [`Clasificación con Árboles de Decisión ¡EN 15 MINUTOS!`](https://youtu.be/kqaLlte6P6o) · [`Visual Guide to Random Forests`](https://youtu.be/cIbj0WuK41w) · [`R2D3`](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) · [`8 Mistakes Holding Your Career Back`](https://youtu.be/yrtAoBr3iuQ) · [`Teoría de la información`](https://youtu.be/4ic-J79O9hg) |
+| Intro a Ciencia de datos y BI* | [Workshop 12]() | [`Banking Churn`](https://colab.research.google.com/drive/1cRTBNRTUEZGoA3mkSEZNxXW1qIlwVZuf?usp=sharing) | [`Decision and Classification Trees, Clearly Explained!!!`](https://youtu.be/_L39rN6gz7Y) · [`Clasificación con Árboles de Decisión ¡EN 15 MINUTOS!`](https://youtu.be/kqaLlte6P6o) · [`Visual Guide to Random Forests`](https://youtu.be/cIbj0WuK41w) · [`R2D3`](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) · [`8 Mistakes Holding Your Career Back`](https://youtu.be/yrtAoBr3iuQ) · [`Teoría de la información`](https://youtu.be/4ic-J79O9hg) |
 
 \* opcional, a votación del grupo y a expensas de cubrir el temario de la facultad.
 
