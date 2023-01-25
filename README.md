@@ -135,6 +135,7 @@ Link | Comentarios |
 [**Econometrics with Machine Learning**](https://www.amazon.com.mx/Econometrics-Machine-Learning-2022-Paperback/dp/B0BJ31JTZR/ref=sr_1_1?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=YJXW3D3HKXXQ&keywords=machine+learning+for+econometrics&qid=1672333695&sprefix=machine+learning+for+econometric%2Caps%2C118&sr=8-1) - *Advan* ||
 [**Power and Prediction: The Disruptive Economics of Artificial Intelligence**](https://www.amazon.com.mx/Power-Prediction-Disruptive-Artificial-Intelligence/dp/1647824192/ref=sr_1_3?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3HX2EWWEK6UFP&keywords=prediction+machines&qid=1672333743&sprefix=prediction+machine%2Caps%2C116&sr=8-3) - *Ajay Agrawal* ||
 [**The Book of Why: The New Science of Cause and Effect**](https://www.amazon.com.mx/Book-Why-Science-Cause-Effect/dp/046509760X/ref=sr_1_2?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=37MAO5V3JKZ83&keywords=the+book+of+why&qid=1672333838&s=books&sprefix=the+book+of+wh%2Cstripbooks%2C118&sr=1-2) - *Judea Pearl* ||
+[**Prediction Revisited: The Importance of Observation**](https://www.predictionrevisited.com/the-book) - *Megan Czasonis* || 
 
 
 
