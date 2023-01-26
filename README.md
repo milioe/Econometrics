@@ -24,7 +24,7 @@ En este repositorio encontrarás **todo el material necesario para el curso**. T
 
 # 👨‍🏫 Unidades
 
-| Unidad | Slides | Código | Recursos Adicionales |
+| Unidad | Slides | Código | Recursos |
 |--------|--------|--------|----------------------|
 | Presentación de curso | [Welcome]() | | [`Syllabus`]() · [`Cuestionario general`]() · [`Whimsical del curso`](https://whimsical.com/econometrics-i-U3gpSBnYKG1UqAS6Fbi7nB)|
 | Regresión lineal| [Workshop 1]() | [`Intro a LaTeX`]() · [`Intro a Python`](https://colab.research.google.com/drive/1b57SV3m-gevwQ0xFFhyvgqRUuHDKawZY?usp=sharing) · [`Regresión lineal artesanal`](https://colab.research.google.com/drive/1FTRCVah2VgV0z2ypdm7UbWPuZjRomoYx?usp=sharing) | [`How to read a paper`](https://github.com/milioe/Econometrics/blob/main/files/Papers/HowtoReadPaper.pdf) · [`Regresión lineal y probeza`](https://github.com/milioe/Econometrics/blob/main/files/Papers/Regresio%CC%81n%20lineal%20y%20pobreza.pdf) · [`Brilliant`]() · [`Viendo la teoría`](https://seeing-theory.brown.edu/es.html#firstPage) · [`Setosa.io`](https://setosa.io/ev/) · [`Spurious Correlations`](https://www.tylervigen.com/spurious-correlations) · [`Kaggle`](https://www.kaggle.com/)
