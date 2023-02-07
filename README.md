@@ -26,7 +26,7 @@ En este repositorio encontrarás **todo el material necesario para el curso**. T
 
 | Unidad | Slides | Código | Recursos |
 |--------|--------|--------|----------------------|
-| Presentación de curso | [Welcome](https://github.com/milioe/Econometrics/blob/main/files/Slides/Welcome.pdf) | | [`Syllabus`]() · [`Cuestionario general`]() · [`Whimsical del curso`](https://whimsical.com/econometrics-i-U3gpSBnYKG1UqAS6Fbi7nB)|
+| Presentación de curso | [Welcome](https://github.com/milioe/Econometrics/blob/main/files/Slides/Welcome.pdf) | | [`Syllabus`](https://drive.google.com/file/d/19OxdiUQWemqli2RtqCT9ib7MvMbzfiHT/view?usp=sharing) · [`Cuestionario general`]() · [`Whimsical del curso`](https://whimsical.com/econometrics-i-U3gpSBnYKG1UqAS6Fbi7nB)|
 | Regresión lineal| [Workshop 1]() | [`Intro a LaTeX`]() · [`Intro a Python`](https://colab.research.google.com/drive/1b57SV3m-gevwQ0xFFhyvgqRUuHDKawZY?usp=sharing) · [`Regresión lineal artesanal`](https://colab.research.google.com/drive/1FTRCVah2VgV0z2ypdm7UbWPuZjRomoYx?usp=sharing) | [`Paper: How to read a paper`](https://github.com/milioe/Econometrics/blob/main/files/Papers/HowtoReadPaper.pdf) · [`Paper: Regresión lineal y probeza`](https://github.com/milioe/Econometrics/blob/main/files/Papers/Regresio%CC%81n%20lineal%20y%20pobreza.pdf) · [`Brilliant`]() · [`Viendo la teoría`](https://seeing-theory.brown.edu/es.html#firstPage) · [`Setosa.io`](https://setosa.io/ev/) · [`Spurious Correlations`](https://www.tylervigen.com/spurious-correlations) · [`Kaggle`](https://www.kaggle.com/)
 | Forma Funcional  | [Workshop 2]() | | |
 | Multicolinealidad | [Workshop 3]() | | |
