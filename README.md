@@ -130,6 +130,7 @@ Algunos artículos adicionales sobre econometría, analítica y temas afines:
 | [Is n = 30 really enough? A popular inductive fallacy among data analysts](https://towardsdatascience.com/is-n-30-really-enough-a-popular-inductive-fallacy-among-data-analysts-95661669dd98) | 
 | [How Data Leakage affects model performance claims](https://towardsdatascience.com/how-data-leakage-affects-model-performance-claims-841eb01276bb) | Una razón más intuitiva que matemática de porqué no es bueno tener variables independientes *proxy* a la variable dependiente, o que estén correlacionadas y por lo tanto la regresión muestre signos de multicolinealidad. |
 | [Knowledge structures](https://www.francismiller.com/knowledge-structures-an-introduction-to-the-concept/) | Entendimiento de los diferentes problemas y cómo abordarlos |
+| [10 Reasons Your Beliefs Are Probably Bullshit](https://gurwinder.substack.com/p/10-reasons-your-beliefs-are-probably?utm_source=post-email-title&publication_id=589242&post_id=99216576&isFreemail=true&utm_medium=email) | Sesgos cognitivos y cómo resolverlos
 
 * **
 
