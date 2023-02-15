@@ -96,6 +96,7 @@ A lo largo del semestre tendremos algunas lecturas obligatorias que complementan
 
 | Título | Link | Capítulos |
 |--------|------|-----------|
+| El cisne negro | [`PDF`](https://github.com/milioe/Econometrics/blob/main/files/Otros/El%20cisne%20negro.pdf) · [`Amazon`](https://www.amazon.com.mx/El-Cisne-Negro-Altamente-Improbable/dp/6079202557/ref=sr_1_1?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=6VSAW0EDT691&keywords=el+cisne+negro&qid=1676485709&sprefix=el+cisne+negro%2Caps%2C146&sr=8-1) | 
 
 * **
 
