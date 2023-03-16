@@ -81,11 +81,11 @@ Recursos para repasar para el examen:
 # 🥇🥈🥉 Competencias 🏆 
 ## Regresión lineal (LeaderBoard)
 
-|      | #1 | #2 | #3 | #4 | #5 |
-|------|----|----|----|----|----|
-|Dataset|  [`Admision`]() | [`Insurance`]() | [`Profit`]() | [`Fish`]() | [`StartUp`](https://www.kaggle.com/datasets/karthickveerakumar/startup-logistic-regression) 
-| $R^2$ Equipo 1 | `%` | `%`| `%`| `%`| `%` | 
-| $R^2$ Equipo 2 | `%` | `%`| `%`| `%`| `%` | 
+|      | #1 | #2 | #3 | #4 |
+|------|----|----|----|----|
+|Dataset|  [`Admision`]() | [`Insurance`]() | [`Profit`]() | [`Fish`]() 
+| $R^2$ Equipo 1 | `%` | `%`| `%`| `%`|
+| $R^2$ Equipo 2 | `%` | `%`| `%`| `%`|
 
 * **
 
