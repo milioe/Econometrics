@@ -134,6 +134,7 @@ Algunos artículos adicionales sobre econometría, analítica y temas afines:
 | [How Data Leakage affects model performance claims](https://towardsdatascience.com/how-data-leakage-affects-model-performance-claims-841eb01276bb) | Una razón más intuitiva que matemática de porqué no es bueno tener variables independientes *proxy* a la variable dependiente, o que estén correlacionadas y por lo tanto la regresión muestre signos de multicolinealidad. |
 | [Knowledge structures](https://www.francismiller.com/knowledge-structures-an-introduction-to-the-concept/) | Entendimiento de los diferentes problemas y cómo abordarlos |
 | [10 Reasons Your Beliefs Are Probably Bullshit](https://gurwinder.substack.com/p/10-reasons-your-beliefs-are-probably?utm_source=post-email-title&publication_id=589242&post_id=99216576&isFreemail=true&utm_medium=email) | Sesgos cognitivos y cómo resolverlos
+| [A User’s Guide to Statistical Inference and Regression](https://mattblackwell.github.io/gov2002-book/) | "Set of notes for Government 2002: Quantitative Social Science Methods II at Harvard University taught by Matthew Blackwell."
 
 * **
 
@@ -152,6 +153,7 @@ Link | Comentarios |
 [**Power and Prediction: The Disruptive Economics of Artificial Intelligence**](https://www.amazon.com.mx/Power-Prediction-Disruptive-Artificial-Intelligence/dp/1647824192/ref=sr_1_3?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3HX2EWWEK6UFP&keywords=prediction+machines&qid=1672333743&sprefix=prediction+machine%2Caps%2C116&sr=8-3) - *Ajay Agrawal* ||
 [**The Book of Why: The New Science of Cause and Effect**](https://www.amazon.com.mx/Book-Why-Science-Cause-Effect/dp/046509760X/ref=sr_1_2?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=37MAO5V3JKZ83&keywords=the+book+of+why&qid=1672333838&s=books&sprefix=the+book+of+wh%2Cstripbooks%2C118&sr=1-2) - *Judea Pearl* ||
 [**Prediction Revisited: The Importance of Observation**](https://www.predictionrevisited.com/the-book) - *Megan Czasonis* || 
+
 
 
 
