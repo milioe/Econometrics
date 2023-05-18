@@ -21,6 +21,7 @@ En este repositorio encontrarás **todo el material necesario para el curso**. T
 Para la siguiente semana veremos una introducción **Machine Learning** en un caso de clasificación binaria. Les sugerimos revisar los siguientes videos para tener un pre de conocimiento:
 * [Clasificación con Árboles de Decisión ¡EN 15 MINUTOS!](https://youtu.be/kqaLlte6P6o)
 * [Regresión con Árboles de Decisión: el algoritmo CART](https://youtu.be/2Miw4bjzSF0)
+* [R2D3](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 
 <!---
 -->
