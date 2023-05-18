@@ -15,9 +15,14 @@ En este repositorio encontrarás **todo el material necesario para el curso**. T
   * 📬 [emilio.sandpal@gmail.com](mailto:emilio.sandpal@gmail.com)
 
 
-<!---
+
 * **
 # 🚨🚨🚨 Anuncios 🚨🚨🚨
+Para la siguiente semana veremos una introducción **Machine Learning** en un caso de clasificación binaria. Les sugerimos revisar los siguientes videos para tener un pre de conocimiento:
+* [Clasificación con Árboles de Decisión ¡EN 15 MINUTOS!](https://youtu.be/kqaLlte6P6o)
+* [Regresión con Árboles de Decisión: el algoritmo CART](https://youtu.be/2Miw4bjzSF0)
+
+<!---
 -->
 
 * **
@@ -55,6 +60,7 @@ En los siguientes links podrán acceder al parcial correspondiente, el cual esta
 | `Logit-Probit` · `Datos Panel` · `Ecuaciones Simultáneas` · `Series de tiempo` · `Cointegración` | [Parcial 2]() | 
 
 * **
+
 
 <!---
 # 💪 Repaso
