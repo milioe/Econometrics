@@ -1,5 +1,5 @@
 # Econometría I
-## UNAM · Facultad de Economía · Semestre 2023-2
+## UNAM · Facultad de Economía · Semestre 2025-1
 
 > *"In theory, there is no difference between theory and practice. But in practice, there is"*  
 > -Benjamin Brewster
