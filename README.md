@@ -18,6 +18,14 @@ En este repositorio encontrarás **todo el material necesario para el curso**. T
 
 * **
 # 🚨🚨🚨 Anuncios 🚨🚨🚨
+
+SEMESTRES 2025-1.
+
+Buen día, espero estén muy bien. Como habíamos coversado, debo atender una sesión presencial, nos vemos el dia MIERCOLES 21 EN EL LABORATORIO 105.
+
+
+
+
 Para la siguiente semana veremos una introducción **Machine Learning** en un caso de clasificación binaria. Les sugerimos revisar los siguientes videos para tener un pre de conocimiento:
 * [Clasificación con Árboles de Decisión ¡EN 15 MINUTOS!](https://youtu.be/kqaLlte6P6o)
 * [Regresión con Árboles de Decisión: el algoritmo CART](https://youtu.be/2Miw4bjzSF0)
