@@ -21,7 +21,9 @@ En este repositorio encontrarás **todo el material necesario para el curso**. T
 
 SEMESTRES 2025-1.
 
-Buen día, espero estén muy bien. Como habíamos coversado, debo atender una sesión presencial, nos vemos el dia MIERCOLES 21 EN EL LABORATORIO 105.
+Buen día, espero estén muy bien. Como habíamos conversado, debo atender una sesión presencial, nos vemos el dia MIERCOLES 21 EN EL LABORATORIO 105. 
+
+Favor de difundir.
 
 
 
