@@ -21,17 +21,13 @@ En este repositorio encontrarás **todo el material necesario para el curso**. T
 
 SEMESTRES 2025-1.
 
-Buen día, espero estén muy bien. Como habíamos conversado, debo atender una sesión presencial, nos vemos el dia MIERCOLES 21 EN EL LABORATORIO 105. 
+Buen día, les mande por correo el formato de entrega y el ejercicio de tarea de regresión lineal. Este también viene en la última presentación del workshop 1.
 
-Favor de difundir.
-
-
+Nos vemos mañana.
 
 
-Para la siguiente semana veremos una introducción **Machine Learning** en un caso de clasificación binaria. Les sugerimos revisar los siguientes videos para tener un pre de conocimiento:
-* [Clasificación con Árboles de Decisión ¡EN 15 MINUTOS!](https://youtu.be/kqaLlte6P6o)
-* [Regresión con Árboles de Decisión: el algoritmo CART](https://youtu.be/2Miw4bjzSF0)
-* [R2D3](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+
+
 
 <!---
 -->
@@ -123,6 +119,12 @@ A lo largo del semestre tendremos algunas lecturas obligatorias que complementan
 
 
 # 🤓 Fuentes adicionales
+
+Para introducción **Machine Learning** en un caso de clasificación binaria. Les sugerimos revisar los siguientes videos para tener un pre de conocimiento:
+* [Clasificación con Árboles de Decisión ¡EN 15 MINUTOS!](https://youtu.be/kqaLlte6P6o)
+* [Regresión con Árboles de Decisión: el algoritmo CART](https://youtu.be/2Miw4bjzSF0)
+* [R2D3](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+
 
 Algunos artículos adicionales sobre econometría, analítica y temas afines:
 
