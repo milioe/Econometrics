@@ -25,7 +25,7 @@ La variable dependiente puede ser cualquiera de las siguientes:
 * `G3` - final grade
 
 
-Consulta la matriz en este [link](https://mendelbeer.com.mx/MatrizCorrelacion.html). 
+Consulta la matriz en este [link](https://econometricsunam.blob.core.windows.net/20251/MatrizCorrelacion.html). 
 
 
 
