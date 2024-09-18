@@ -21,12 +21,11 @@ En este repositorio encontrarás **todo el material necesario para el curso**. T
 
 SEMESTRES 2025-1.
 
-Buen día, les mande por correo el formato de entrega y el ejercicio de tarea de regresión lineal. Este también viene en la última presentación del workshop 1.
+Hola, recuerden que multicolinealidad y normalidad van juntos en el entregable. De manera adicional, quién guste, puede enviar en un documento sus impresione sy reflexiones de los recursos adicionales (Ley Benford y Efecto Mateo)
 
-Nos vemos mañana.
+NADA SE ENVÍA HASTA QUE SE INDIQUE FECHA DE RECEPCIÓN.
 
-
-
+Saludos.
 
 
 <!---
