@@ -12,7 +12,7 @@ En este repositorio encontrarás **todo el material necesario para el curso**. T
 * Humberto Acevedo Cruz Manjarrez 
   * 📬 [hac106@hotmail.com](mailto:hac106@hotmail.com)
 * Emilio Sandoval Palomino
-  * 📬 [emilio.sandpal@gmail.com](mailto:emilio.sandpal@gmail.com)
+  * 📬 [emilio.sandpal@gmail.com](mailto:emilio.sandpal@gmail.com) || [emilio@milioe.com](mailto:emilio@milioe.com)
 
 
 
