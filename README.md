@@ -42,7 +42,7 @@ Saludos.
 | Forma Funcional  | [Workshop 2](https://github.com/milioe/Econometrics/blob/main/files/Slides/Workshop2%20Functional%20Form.pdf) · [LaTeX](https://github.com/milioe/Econometrics/blob/main/files/Slides/Intro%20a%20LaTeX.pdf) | | [`Paper: Selecting Functional Form in Production Function Analysis`](https://github.com/milioe/Econometrics/blob/main/files/Papers/Selecting%20Functional%20Form%20in%20Production%20Function%20Analysi.pdf) · [`Assignment 1`](https://github.com/milioe/Econometrics/blob/main/files/Otros/Assignment_FF.pdf) · [`Ejemplo LaTeX`](https://es.overleaf.com/read/gkshcxvxtzqm) | [`Mus08`](https://econometricsunam.blob.core.windows.net/20251/STATADATASETS/mus08psidextract.dta) · [`Auto`](https://econometricsunam.blob.core.windows.net/20251/STATADATASETS/auto.dta) |
 | Multicolinealidad | [Workshop 3](https://github.com/milioe/Econometrics/blob/main/files/Slides/Workshop3%20BLUEMulticollinearity.pdf) | | [`Matriz Portugal`](https://econometricsunam.blob.core.windows.net/20251/STATADATASETS/multi.md) | [`Nomulti`](https://econometricsunam.blob.core.windows.net/20251/STATADATASETS/nomulti.dta) · [`Presion`](https://econometricsunam.blob.core.windows.net/20251/STATADATASETS/presion.dta) · [`Elemapi`](https://econometricsunam.blob.core.windows.net/20251/STATADATASETS/elemapi2.dta) |
 
-<!---
+
 | Normalidad | [Workshop 4](https://github.com/milioe/Econometrics/blob/main/files/Slides/Workshop4%20Normality.pdf) | | | [`Elemapi2`](https://github.com/milioe/Econometrics/blob/main/files/STATA/elemapi2.dta) |
 | Homoscedasticidad | [Workshop 5](https://github.com/milioe/Econometrics/blob/main/files/Slides/Workshop5%20Homoscedasticity.pdf) |  | | [`Elemapi2`](https://github.com/milioe/Econometrics/blob/main/files/STATA/elemapi2.dta) · [`Hprice1`](https://github.com/milioe/Econometrics/blob/main/files/STATA/hprice1.dta) |
 | Autocorrelación | [Workshop 6](https://github.com/milioe/Econometrics/blob/main/files/Slides/Workshop6.%20Autocorrelation.pdf) | [`Regresión cellphones`](https://colab.research.google.com/drive/1-6mTQAfkD4Jm8t1Op8QnwkmLZRPiWa6E?usp=sharing) | | [`Klein`](https://github.com/milioe/Econometrics/blob/main/files/STATA/klein.dta) |
@@ -57,7 +57,7 @@ Saludos.
 -->
 
 * **
-
+<!---
 
 # 🧠 Parciales
 
