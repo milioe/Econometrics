@@ -46,7 +46,7 @@ Saludos.
 | Autocorrelación | [Workshop 6](https://github.com/milioe/Econometrics/blob/main/files/Slides/Workshop6.%20Autocorrelation.pdf) | [`Regresión cellphones`](https://colab.research.google.com/drive/1-6mTQAfkD4Jm8t1Op8QnwkmLZRPiWa6E?usp=sharing) | | [`Klein`](https://econometricsfeunam.blob.core.windows.net/resources/klein.dta) |
 | Logit - Probit | [Workshop 7](https://github.com/milioe/Econometrics/blob/main/files/Slides/Workshop7.%20Logit-Probit%20Models.pdf) | [`Titanic`]() | [`Breaking it Down: Logistic Regression`](https://towardsdatascience.com/breaking-it-down-logistic-regression-e5c3f1450bd#6a7a) · [`Probit Regression in R, Python, Stata, and SAS`](https://jbhender.github.io/Stats506/F18/GP/Group14.html) · [`Probit and Logit with R and Python`](http://web.vu.lt/mif/a.buteikis/wp-content/uploads/PE_Book/5-2-BinaryResponse.html)| [`Mroz`](https://econometricsfeunam.blob.core.windows.net/resources/mroz.dta) |
 
-| Datos Panel | [Workshop 8](https://github.com/milioe/Econometrics/blob/main/files/Slides/Workshop8.%20Panel%20Data.pdf) |  | | |
+| Datos Panel | [Workshop 8](https://github.com/milioe/Econometrics/blob/main/files/Slides/Workshop8.%20Panel%20Data.pdf) |  
 <!---
 | Ecuaciones simultáneas | [Workshop 9](https://github.com/milioe/Econometrics/blob/main/files/Slides/Workshop9.%20Simultaneous%20Equations.pdf) | | | |
 | Series de tiempo | [Workshop 10](https://github.com/milioe/Econometrics/blob/main/files/Slides/Workhop10%20Time%20Series.pdf) | [`Predicción de clima`]() | [`Time Series Problems Simply Explained as Fast Food Combo Meals`](https://towardsdatascience.com/time-series-problems-simply-explained-as-fast-food-combo-meals-70c6eb9bdef)| | 
