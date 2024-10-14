@@ -45,7 +45,6 @@ Saludos.
 | Homoscedasticidad | [Workshop 5](https://github.com/milioe/Econometrics/blob/main/files/Slides/Workshop5%20Homoscedasticity.pdf) |  | | [`Elemapi2`](https://econometricsfeunam.blob.core.windows.net/resources/elemapi2.dta) · [`Hprice1`](https://econometricsfeunam.blob.core.windows.net/resources/hprice1.dta) |
 | Autocorrelación | [Workshop 6](https://github.com/milioe/Econometrics/blob/main/files/Slides/Workshop6.%20Autocorrelation.pdf) | [`Regresión cellphones`](https://colab.research.google.com/drive/1-6mTQAfkD4Jm8t1Op8QnwkmLZRPiWa6E?usp=sharing) | | [`Klein`](https://econometricsfeunam.blob.core.windows.net/resources/klein.dta) |
 | Logit - Probit | [Workshop 7](https://github.com/milioe/Econometrics/blob/main/files/Slides/Workshop7.%20Logit-Probit%20Models.pdf) | [`Titanic`]() | [`Breaking it Down: Logistic Regression`](https://towardsdatascience.com/breaking-it-down-logistic-regression-e5c3f1450bd#6a7a) · [`Probit Regression in R, Python, Stata, and SAS`](https://jbhender.github.io/Stats506/F18/GP/Group14.html) · [`Probit and Logit with R and Python`](http://web.vu.lt/mif/a.buteikis/wp-content/uploads/PE_Book/5-2-BinaryResponse.html)| [`Mroz`](https://econometricsfeunam.blob.core.windows.net/resources/mroz.dta) |
-
 | Datos Panel | [Workshop 8](https://github.com/milioe/Econometrics/blob/main/files/Slides/Workshop8.%20Panel%20Data.pdf) |  
 <!---
 | Ecuaciones simultáneas | [Workshop 9](https://github.com/milioe/Econometrics/blob/main/files/Slides/Workshop9.%20Simultaneous%20Equations.pdf) | | | |
