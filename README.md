@@ -21,14 +21,9 @@ En este repositorio encontrarás **todo el material necesario para el curso**. T
 
 SEMESTRES 2025-1.
 
-Hola, nos debemos modelos logit-probit y modelos panel.
+Link de examen
 
-NADA SE ENVÍA HASTA QUE SE INDIQUE FECHA DE RECEPCIÓN.
-
-Libro Wooldridge 
-
-(https://herioscarlanda.wordpress.com/wp-content/uploads/2018/10/wooldridge-2009-introduccic3b3n-a-la-econometrc3ada-un-enfoque-moderno.pdf)
-
+https://www.classmarker.com/online-test/start/?quiz=7kf6744adf91779b
 
 Saludos.
 
